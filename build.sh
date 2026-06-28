@@ -7,8 +7,8 @@ WORK_DIR="${REPO_DIR}/build"
 SOURCE_URL="https://github.com/SukkaLab/ruleset.skk.moe/archive/refs/heads/master.zip"
 ARCHIVE="master.zip"
 
-chmod +x "${SCRIPTS_DIR}/clean.sh"
-chmod +x "${SCRIPTS_DIR}/process_wildcard.sh"
+# chmod +x "${SCRIPTS_DIR}/clean.sh"
+# chmod +x "${SCRIPTS_DIR}/process_wildcard.sh"
 
 # 下载
 rm -rf "${REPO_DIR}/loon" "${REPO_DIR}/mihomo"
@@ -40,7 +40,7 @@ done
 
 # 清洗
 echo "[4/8] 清洗文件..."
-find loon mihomo -type f -name "*.raw.list" -exec "${SCRIPTS_DIR}/clean.sh" {} \;
+find loon mihomo -type f -name "*.raw.list" -exec bash "${SCRIPTS_DIR}/clean.sh" {} \;
 find loon mihomo -type f -empty -delete
 
 # 转换 loon/domainset
@@ -53,7 +53,7 @@ done
 # 转换 loon DOMAIN-WILDCARD
 echo "[6/8] 转换 DOMAIN-WILDCARD..."
 find loon/non_ip -type f -name "*.raw.list" -exec \
-    "${SCRIPTS_DIR}/process_wildcard.sh" {} "${SCRIPTS_DIR}" \;
+    bash "${SCRIPTS_DIR}/process_wildcard.sh" {} "${SCRIPTS_DIR}" \;
 
 # 重命名交付
 echo "[7/8] 重命名剩余文件..."
