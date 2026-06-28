@@ -1,0 +1,13 @@
+DOMAIN,av.jkforum.net
+DOMAIN-SUFFIX,cdn.hinet.net
+DOMAIN,www.manhuagui.com
+DOMAIN,yymanhua.com
+DOMAIN,www.yymanhua.com
+DOMAIN,avbebe.com
+DOMAIN,mhgui.com
+DOMAIN,javdb.com
+DOMAIN,hanime1.me
+DOMAIN-WILDCARD,*.ffzy-online?.com
+DOMAIN-WILDCARD,*.ffzy-play?.com
+DOMAIN-WILDCARD,*.lz-cdn?.com
+DOMAIN-WILDCARD,*.lz-cdn??.com

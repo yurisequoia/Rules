@@ -1,0 +1,8 @@
+URL-REGEX,^http://(.+)\.gvt\d\.com/edgedl
+AND((DOMAIN-KEYWORD,download),(DOMAIN-SUFFIX,mediafire.com))
+AND((DOMAIN-KEYWORD,ftp),(DOMAIN-SUFFIX,debian.org))
+AND((DOMAIN-KEYWORD,ftp),(DOMAIN-SUFFIX,freebsd.org))
+AND((DOMAIN-KEYWORD,s3),(DOMAIN-SUFFIX,backblazeb2.com))
+AND((DOMAIN-KEYWORD,cdn-),(DOMAIN-SUFFIX,comaps.app))
+AND((DOMAIN-KEYWORD,cdn-),(DOMAIN-SUFFIX,comaps.tech))
+AND((DOMAIN-KEYWORD,cdn-),(DOMAIN-SUFFIX,organicmaps.app))
