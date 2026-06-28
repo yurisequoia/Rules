@@ -15,7 +15,7 @@
 
 输出格式：
   单条件：DOMAIN-SUFFIX,example.com
-  多条件：AND((DOMAIN-KEYWORD,foo),(DOMAIN-SUFFIX,example.com))
+  多条件：AND,((DOMAIN-KEYWORD,foo),(DOMAIN-SUFFIX,example.com))
 """
 
 import re
@@ -63,7 +63,7 @@ def convert_line(raw: str) -> str | None:
         return None
     if len(conditions) == 1:
         return conditions[0]
-    return "AND(" + ",".join(f"({c})" for c in conditions) + ")"
+    return "AND,(" + ",".join(f"({c})" for c in conditions) + ")"
 
 
 def main():
