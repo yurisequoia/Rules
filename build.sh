@@ -62,7 +62,8 @@ find loon mihomo -type f -name "*.raw.list" | while read -r f; do
 done
 
 # 清理
-echo "[8/8] 整理输出目录..."
+echo "[8/8] 清理并输出目录..."
+find "${WORK_DIR}" -type f | grep -vF -f "${REPO_DIR}/keeplist.list" | xargs rm
 mv "${WORK_DIR}/loon" "${REPO_DIR}/loon"
 mv "${WORK_DIR}/mihomo" "${REPO_DIR}/mihomo"
 rm -rf "$WORK_DIR"
