@@ -23,4 +23,4 @@ DOMAIN-SUFFIX,femetrics.grammarly.io
 DOMAIN-SUFFIX,jpush.io
 DOMAIN-SUFFIX,femetrics.qagr.io
 DOMAIN-SUFFIX,jpush.cn
-AND((DOMAIN-KEYWORD,f-log),(DOMAIN-SUFFIX,grammarly.io))
+AND,((DOMAIN-KEYWORD,f-log),(DOMAIN-SUFFIX,grammarly.io))

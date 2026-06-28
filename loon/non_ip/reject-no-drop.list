@@ -36,9 +36,9 @@ DOMAIN-SUFFIX,gjfzpt.cn
 DOMAIN-KEYWORD,-p2p.pull.yximgs.com
 DOMAIN-KEYWORD,-p2p-v2.pull.yximgs.com
 AND,((PROTOCOL,UDP), (DOMAIN-SUFFIX,googlevideo.com))
-AND((DOMAIN-KEYWORD,p2p),(DOMAIN-SUFFIX,qq.com))
-AND((DOMAIN-KEYWORD,p2p-),(DOMAIN-SUFFIX,douyucdn.cn))
-AND((DOMAIN-KEYWORD,p2pchunk-),(DOMAIN-SUFFIX,douyucdn.cn))
-AND((DOMAIN-KEYWORD,dyp2p-),(DOMAIN-SUFFIX,douyucdn.cn))
-AND((DOMAIN-KEYWORD,p2plive-),(DOMAIN-SUFFIX,douyucdn.cn))
-AND((DOMAIN-KEYWORD,stun),(DOMAIN-SUFFIX,douyucdn.cn))
+AND,((DOMAIN-KEYWORD,p2p),(DOMAIN-SUFFIX,qq.com))
+AND,((DOMAIN-KEYWORD,p2p-),(DOMAIN-SUFFIX,douyucdn.cn))
+AND,((DOMAIN-KEYWORD,p2pchunk-),(DOMAIN-SUFFIX,douyucdn.cn))
+AND,((DOMAIN-KEYWORD,dyp2p-),(DOMAIN-SUFFIX,douyucdn.cn))
+AND,((DOMAIN-KEYWORD,p2plive-),(DOMAIN-SUFFIX,douyucdn.cn))
+AND,((DOMAIN-KEYWORD,stun),(DOMAIN-SUFFIX,douyucdn.cn))
