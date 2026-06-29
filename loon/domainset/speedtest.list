@@ -50,6 +50,7 @@ DOMAIN,de-lg.h2.nexus
 DOMAIN,speedtest21.hotspot.koeln
 DOMAIN,speedtest11.hotspot.koeln
 DOMAIN,speedtest.fra01.fusionflare.cloud
+DOMAIN,speedtest-nl1.expresshost.cloud
 DOMAIN,speedtest.lumischvps.cloud
 DOMAIN,speedtest.brightstar.cloud
 DOMAIN,speedtest.zerospace.cloud
@@ -77,6 +78,7 @@ DOMAIN,speedtest.b2.mhn.cloud
 DOMAIN-SUFFIX,speedtest.mbs.cloud
 DOMAIN,speed.dedi.zone
 DOMAIN,st.ruinet.work
+DOMAIN,gisho.work
 DOMAIN,speedtest.ftth.wien
 DOMAIN,speedtest.kappenhagen.tech
 DOMAIN,speedtest.fehmer.tech
@@ -2385,6 +2387,7 @@ DOMAIN,speedtest.bakcom.in
 DOMAIN,speedtest.arktel.in
 DOMAIN,st1.anonet.in
 DOMAIN,speed10.aitspl.in
+DOMAIN,speed3.aitspl.in
 DOMAIN,speedtestsaha1.airtel.in
 DOMAIN,speedtestspc1.airtel.in
 DOMAIN,speedtestmum1.airtel.in
