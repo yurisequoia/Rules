@@ -44,6 +44,7 @@ echo "[4/8] 清洗文件..."
 find "${WORK_DIR}" -type f | grep -vF -f "${REPO_DIR}/keeplist.list" | xargs rm
 find surge loon mihomo -type f -name "*.raw.list" -exec bash "${SCRIPTS_DIR}/clean.sh" {} \;
 find surge loon mihomo -type f -empty -delete
+find surge loon mihomo -type f -name "my_*" -delete
 
 # 转换 loon/domainset
 echo "[5/8] 转换 domainset..."
