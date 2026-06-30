@@ -3733,6 +3733,7 @@ web-cdn.bsky.app
 video.bsky.app
 +.cdn.bsky.app
 +.web.app
+widget.rss.app
 images.rss.app
 +.csb.app
 cdn.7tv.app
@@ -4259,6 +4260,7 @@ statics.goorm.io
 sdk.gleap.io
 cdn.filen.io
 +.ipfs.decoo.io
+changelog-widget.canny.io
 assets2.canny.io
 assets.canny.io
 cdn.bogos.io
