@@ -1024,6 +1024,7 @@ DOMAIN-SUFFIX,shortpixel.ai
 DOMAIN-SUFFIX,skyearth8.xyz
 DOMAIN-SUFFIX,smmallcdn.net
 DOMAIN,sp.replit.com
+DOMAIN-SUFFIX,squarecdn.com
 DOMAIN-SUFFIX,ss-domain.com
 DOMAIN,st6-20.vk.com
 DOMAIN-SUFFIX,stackblitz.io
@@ -1098,11 +1099,13 @@ DOMAIN,c5.patreon.com
 DOMAIN,c6.patreon.com
 DOMAIN,c7.patreon.com
 DOMAIN,c8.patreon.com
+DOMAIN,cdn-o.suno.com
 DOMAIN-SUFFIX,cdn-spurit.com
 DOMAIN,cdn.affine.pro
 DOMAIN,cdn.aimerce.ai
 DOMAIN,cdn.arduino.cc
 DOMAIN,cdn.builder.io
+DOMAIN,cdn.candid.org
 DOMAIN,cdn.channel.io
 DOMAIN,cdn.concert.io
 DOMAIN-SUFFIX,cdn.cwinfo.net
@@ -1442,6 +1445,7 @@ DOMAIN,cdn.javmiku.com
 DOMAIN,cdn.jetboost.io
 DOMAIN,cdn.jolipage.co
 DOMAIN,cdn.mathjax.org
+DOMAIN,cdn.mcp-use.com
 DOMAIN,cdn.mercury.com
 DOMAIN,cdn.metadata.io
 DOMAIN,cdn.moeload.com
@@ -2419,6 +2423,7 @@ DOMAIN,assets.onestore.ms
 DOMAIN,assets.ontrack.com
 DOMAIN,assets.pingone.com
 DOMAIN,assets.porndig.com
+DOMAIN,assets.ryanair.com
 DOMAIN,assets.st-note.com
 DOMAIN,assets.vidyard.com
 DOMAIN,assets.zendesk.com
