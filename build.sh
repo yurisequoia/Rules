@@ -64,6 +64,13 @@ find surge loon mihomo -type f -name "*.raw.list" | while read -r f; do
     mv "$f" "${f/.raw.list/.list}"
 done
 
+# 增加生成时间与计数
+TIMESTAMP="$(env TZ=Asia/Shanghai date '+%Y-%m-%d %H:%M:%S %Z')"
+find "${WORK_DIR}" -type f -name "*.list" -print0 | while IFS= read -r -d '' f; do
+    line_count="$(grep -c '' "$f")"
+    sed -i "1i # Last Update: ${TIMESTAMP}\n# Total Rules: ${line_count}" "$f"
+done
+
 # 清理
 echo "[8/8] 清理并输出目录..."
 mv "${WORK_DIR}/loon" "${REPO_DIR}/loon"
