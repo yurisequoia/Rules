@@ -1,3 +1,5 @@
+# Last Update: 2026-07-08 16:24:26 CST
+# Total Rules: 8
 URL-REGEX,^http://(.+)\.gvt\d\.com/edgedl
 AND,((DOMAIN-KEYWORD,download),(DOMAIN-SUFFIX,mediafire.com))
 AND,((DOMAIN-KEYWORD,ftp),(DOMAIN-SUFFIX,debian.org))
