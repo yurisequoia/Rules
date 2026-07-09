@@ -1,5 +1,5 @@
-# Last Update: 2026-07-08 16:24:26 CST
-# Total Rules: 3269
+# Last Update: 2026-07-09 09:10:20 CST
+# Total Rules: 3271
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -342,6 +342,7 @@ DOMAIN,speedtest.lcom.net
 DOMAIN,speedtest.mdtc.net
 DOMAIN,speedtest.mhtc.net
 DOMAIN,speedtest.mvec.com
+DOMAIN,speedtest.myion.in
 DOMAIN,speedtest.nemr.net
 DOMAIN,speedtest.pldi.net
 DOMAIN,speedtest.pnpt.com
@@ -1022,6 +1023,7 @@ DOMAIN,amsspeed.sharktech.net
 DOMAIN,argalasti.skoultsos.eu
 DOMAIN-SUFFIX,backend.librespeed.org
 DOMAIN,beijing.unicomtest.com
+DOMAIN,chd.softechinfosol.com
 DOMAIN,chicago1.cabospeed.com
 DOMAIN,chispeed.sharktech.net
 DOMAIN,denspeed.sharktech.net
