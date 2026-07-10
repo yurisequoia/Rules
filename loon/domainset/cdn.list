@@ -1,5 +1,5 @@
-# Last Update: 2026-07-09 09:10:20 CST
-# Total Rules: 4541
+# Last Update: 2026-07-10 09:10:29 CST
+# Total Rules: 4542
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -4055,6 +4055,7 @@ DOMAIN,form-assets.mailchimp.com
 DOMAIN,gibs-c.earthdata.nasa.gov
 DOMAIN,global-assets.fitch.group
 DOMAIN,gn-web-assets.api.bbc.com
+DOMAIN,hls-svod.itunes.apple.com
 DOMAIN,hub-assets.displaycal.net
 DOMAIN,hv-monsterdb-data.skk.moe
 DOMAIN,im.np-payment-gateway.com

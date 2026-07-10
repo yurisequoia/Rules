@@ -1,5 +1,5 @@
-# Last Update: 2026-07-09 09:10:20 CST
-# Total Rules: 3271
+# Last Update: 2026-07-10 09:10:29 CST
+# Total Rules: 3272
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -270,6 +270,7 @@ DOMAIN,www.librespeed.fi
 DOMAIN,ch1.chtm.hinet.net
 DOMAIN,ds19.vipconnect.mx
 DOMAIN,eregli.flix.net.tr
+DOMAIN,fetkt1.seed.net.tw
 DOMAIN,fetnt1.seed.net.tw
 DOMAIN,fetsz1.seed.net.tw
 DOMAIN,fetyl1.seed.net.tw
