@@ -1,5 +1,5 @@
-# Last Update: 2026-07-10 09:10:29 CST
-# Total Rules: 4542
+# Last Update: 2026-07-11 08:57:37 CST
+# Total Rules: 4547
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -1009,6 +1009,7 @@ DOMAIN,r2.dejavu.moe
 DOMAIN,r2cdn.c7d.dev
 DOMAIN-SUFFIX,randomuser.me
 DOMAIN-SUFFIX,rawgithub.com
+DOMAIN,rdr.windy.com
 DOMAIN-SUFFIX,runkitcdn.com
 DOMAIN-SUFFIX,s-nbcnews.com
 DOMAIN,s.abcnews.com
@@ -1138,6 +1139,7 @@ DOMAIN-SUFFIX,cdn.pubnub.com
 DOMAIN,cdn.redhat.com
 DOMAIN,cdn.redwap.xyz
 DOMAIN-SUFFIX,cdn.replit.com
+DOMAIN,cdn.scalar.com
 DOMAIN,cdn.seondf.com
 DOMAIN,cdn.setapp.com
 DOMAIN,cdn.sketch.com
@@ -1924,6 +1926,7 @@ DOMAIN-SUFFIX,kinja-static.com
 DOMAIN-SUFFIX,larksuitepkg.com
 DOMAIN,launcher.spot.im
 DOMAIN,lm.visualon.info
+DOMAIN,magic.scalar.com
 DOMAIN-SUFFIX,mangadex.network
 DOMAIN,maps.gstatic.com
 DOMAIN,maps.wplace.live
@@ -3767,6 +3770,7 @@ DOMAIN,ca2.onlyhentaistuff.com
 DOMAIN-SUFFIX,cas-bridge.xethub.hf.co
 DOMAIN,cdn-app.pathfactory.com
 DOMAIN,cdn-assets.circleci.com
+DOMAIN,cdn-assets.hinative.com
 DOMAIN,cdn-eu.dynamicyield.com
 DOMAIN,cdn-images-1.medium.com
 DOMAIN,cdn-static-1.medium.com
@@ -3979,6 +3983,7 @@ DOMAIN,media.nbcconnecticut.com
 DOMAIN,media.telanganatoday.com
 DOMAIN,melonbooks.akamaized.net
 DOMAIN,micro.rubiconproject.com
+DOMAIN,pha-prx.ops.cloud.nx.app
 DOMAIN,photos5.appleinsider.com
 DOMAIN,platforms.makemytrip.com
 DOMAIN,prod-images.rippling.com
