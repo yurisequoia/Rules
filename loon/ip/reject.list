@@ -1,4 +1,4 @@
-# Last Update: 2026-07-11 08:57:37 CST
+# Last Update: 2026-07-12 09:05:20 CST
 # Total Rules: 776
 IP-CIDR,10.72.25.0/24,no-resolve
 IP-CIDR,39.107.15.115/32,no-resolve
