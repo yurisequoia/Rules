@@ -1,5 +1,5 @@
-# Last Update: 2026-07-14 08:54:03 CST
-# Total Rules: 3273
+# Last Update: 2026-07-15 08:51:44 CST
+# Total Rules: 3274
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -1861,6 +1861,7 @@ DOMAIN,speedtest.pentanet.com.au
 DOMAIN,speedtest.pimcommcorp.com
 DOMAIN,speedtest.plasmanodes.com
 DOMAIN,speedtest.powernet.com.ru
+DOMAIN,speedtest.rajeshcable.com
 DOMAIN,speedtest.rtm.t-mobile.nl
 DOMAIN,speedtest.samparkinfo.com
 DOMAIN,speedtest.sinetonline.net
