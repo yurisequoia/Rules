@@ -1,5 +1,5 @@
-# Last Update: 2026-07-15 08:51:44 CST
-# Total Rules: 3274
+# Last Update: 2026-07-16 08:56:47 CST
+# Total Rules: 3278
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -1005,6 +1005,7 @@ DOMAIN,speedtestookla.hya.tw
 DOMAIN,speedtestwa1.sweet.tv
 DOMAIN,sptest2.mgts-spdop.ru
 DOMAIN,spx.mixtelecom.tec.br
+DOMAIN,st1.worldfibernet.com
 DOMAIN,stbrampton.rogers.com
 DOMAIN,stest.broadstarnet.in
 DOMAIN,sthamilton.rogers.com
@@ -1517,6 +1518,7 @@ DOMAIN,st-be-rm2.infra.garr.it
 DOMAIN,st-be.ba1.infra.garr.it
 DOMAIN,st-be.bo1.infra.garr.it
 DOMAIN,st1.liberty-connect.com
+DOMAIN,st1alguazas.borecom.com
 DOMAIN,stmarkham.netcrawler.ca
 DOMAIN,storillia.netcrawler.ca
 DOMAIN,stvaughan.netcrawler.ca
@@ -2192,6 +2194,7 @@ DOMAIN,sg1-sg.lg.skylineconnect.io
 DOMAIN,sjdm-speedtest.globe.com.ph
 DOMAIN,sp.provedordantasnet.com.br
 DOMAIN,sp1.boomerangtelecom.com.br
+DOMAIN,spdtest.omegatelecom.net.br
 DOMAIN,speed.kansas.smishcraft.com
 DOMAIN,speed.lax-1.serverforge.org
 DOMAIN,speedtest-asiago.wifiweb.it
@@ -2517,6 +2520,7 @@ DOMAIN,velocidade.milaninnet.com.br
 DOMAIN,velocidade.niktelecom.com.br
 DOMAIN,velocimetro.esolution.srv.br
 DOMAIN,velocimetro.govistabr.com.br
+DOMAIN,velocimetro.stylosnet.com.br
 DOMAIN,velocimetro.wspeednet.com.br
 DOMAIN,wd-speedtest.homeplus.net.tw
 DOMAIN,airspeed.airwavesinternet.com

@@ -1,5 +1,5 @@
-# Last Update: 2026-07-15 08:51:44 CST
-# Total Rules: 4551
+# Last Update: 2026-07-16 08:56:47 CST
+# Total Rules: 4547
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -64,7 +64,6 @@ DOMAIN,i.gzn.jp
 DOMAIN,i.ibb.co
 DOMAIN,i.vgy.me
 DOMAIN,icons.ly
-DOMAIN,img.m.mw
 DOMAIN-SUFFIX,jspm.dev
 DOMAIN-SUFFIX,jspm.org
 DOMAIN-SUFFIX,loli.net
@@ -757,7 +756,6 @@ DOMAIN,s1.bycsi.com
 DOMAIN,s1.qwant.com
 DOMAIN,s2.qwant.com
 DOMAIN,s3.arkjp.net
-DOMAIN,s3.doujin.sh
 DOMAIN,sdk.gleap.io
 DOMAIN,sdk.split.io
 DOMAIN-SUFFIX,sitescdn.net
@@ -1162,6 +1160,7 @@ DOMAIN,cdn.zapier.com
 DOMAIN,cdn.zeabur.com
 DOMAIN,cdn1.plesk.com
 DOMAIN,cdn2.auth0.com
+DOMAIN,cdn2.cameo.com
 DOMAIN-SUFFIX,cdnclouder.com
 DOMAIN,cdns.gigya.com
 DOMAIN,cdp.sph.com.sg
@@ -1228,7 +1227,6 @@ DOMAIN,images.spot.im
 DOMAIN,images.wsj.net
 DOMAIN-SUFFIX,imagetwist.com
 DOMAIN,img.321cdn.com
-DOMAIN,img.bttimg.com
 DOMAIN,img.decrypt.co
 DOMAIN,img.fzf404.art
 DOMAIN,img.icons8.com
@@ -1314,6 +1312,9 @@ DOMAIN-SUFFIX,report-uri.com
 DOMAIN,res.abc.net.au
 DOMAIN,res.garmin.com
 DOMAIN,rt.rtoaster.jp
+DOMAIN,rt1.maphub.net
+DOMAIN,rt2.maphub.net
+DOMAIN,rt3.maphub.net
 DOMAIN,s.midishow.net
 DOMAIN,s1.divhunt.com
 DOMAIN,s3.2233778.xyz
@@ -1900,7 +1901,6 @@ DOMAIN,img.olympics.com
 DOMAIN-SUFFIX,img.sooplive.com
 DOMAIN,img.sparemin.com
 DOMAIN,img.wikiwand.com
-DOMAIN,img2.javdove.com
 DOMAIN,img2.javmost.com
 DOMAIN,img2.tnaflix.com
 DOMAIN,img3.javmost.com
@@ -2162,7 +2162,6 @@ DOMAIN,cdn.travis-ci.org
 DOMAIN,cdn.ttgtmedia.com
 DOMAIN,cdn.up-timely.com
 DOMAIN,cdn.yinghuazy.xyz
-DOMAIN,cdn.zhujiwiki.com
 DOMAIN,cdn0.techbang.com
 DOMAIN,cdn1.airdroid.com
 DOMAIN,cdn1.edgedatg.com
@@ -2264,7 +2263,6 @@ DOMAIN,images.vexels.com
 DOMAIN-SUFFIX,img.haiwaikan.com
 DOMAIN,img.imoutomoe.net
 DOMAIN,img.picacomic.com
-DOMAIN,img.represent.com
 DOMAIN,img.riskified.com
 DOMAIN,img2.gelbooru.com
 DOMAIN,img3.airdroid.com
@@ -2362,6 +2360,7 @@ DOMAIN,static.gmgard.com
 DOMAIN,static.guim.co.uk
 DOMAIN,static.hotjar.com
 DOMAIN,static.linear.app
+DOMAIN,static.maphub.net
 DOMAIN-SUFFIX,static.mega.co.nz
 DOMAIN,static.meiguo.com
 DOMAIN,static.missav.com
@@ -3415,7 +3414,6 @@ DOMAIN,images.emojiterra.com
 DOMAIN,images.en.aptoide.com
 DOMAIN,images.everyplate.com
 DOMAIN,images.findagrave.com
-DOMAIN,images.freeimages.com
 DOMAIN-SUFFIX,images.hentaicity.com
 DOMAIN,images.icon-icons.com
 DOMAIN,img.foresightnews.pro
@@ -3498,7 +3496,6 @@ DOMAIN,static.buydomains.com
 DOMAIN-SUFFIX,static.chaosgroup.com
 DOMAIN,static.chessarena.com
 DOMAIN,static.clips4sale.com
-DOMAIN,static.freeimages.com
 DOMAIN,static.getpostman.com
 DOMAIN,static.mytonwallet.io
 DOMAIN,static.openreplay.com
@@ -3695,6 +3692,7 @@ DOMAIN,static.foxbusiness.com
 DOMAIN,static.fundraiseup.com
 DOMAIN,static.gettyimages.com
 DOMAIN,static.hugedomains.com
+DOMAIN,static.istockphoto.com
 DOMAIN,static.playstation.com
 DOMAIN,static.staff-start.com
 DOMAIN,static.telegraph.co.uk
@@ -3716,6 +3714,7 @@ DOMAIN-SUFFIX,tile.openstreetmap.org
 DOMAIN-SUFFIX,tile.thunderforest.com
 DOMAIN,tile2.opencyclemap.org
 DOMAIN,tiles.arcticconnect.ca
+DOMAIN-SUFFIX,tiles.openstreetmap.us
 DOMAIN-SUFFIX,tiles.virtualearth.net
 DOMAIN,tileserver.memomaps.de
 DOMAIN,tn.tubepornclassic.com
@@ -4045,7 +4044,6 @@ DOMAIN,cdn.accounts.autodesk.com
 DOMAIN,cdn.accounts.nintendo.com
 DOMAIN,cdn.privacy.paramount.com
 DOMAIN,cdn.registerdisney.go.com
-DOMAIN,cdn.scripts.wtwhmedia.com
 DOMAIN,changelog-widget.canny.io
 DOMAIN,chunk-composing.canva.com
 DOMAIN,components.justanswer.com
@@ -4098,7 +4096,6 @@ DOMAIN-SUFFIX,smartscreen.microsoft.com
 DOMAIN,snyk-widget.herokuapp.com
 DOMAIN,socialpic.video.friday.tw
 DOMAIN,static-ca-cdn.eporner.com
-DOMAIN,static-cdn.bytegiftia.top
 DOMAIN,static-files.bitchute.com
 DOMAIN,static-images.aptoide.com
 DOMAIN,static-sg-cdn.eporner.com
@@ -4500,7 +4497,6 @@ DOMAIN,screenshots.downloadtorrentfile.com
 DOMAIN,static-assets-prod.unrealengine.com
 DOMAIN,stubdownloader.services.mozilla.com
 DOMAIN,cf-images.us-east-1.prod.boltdns.net
-DOMAIN,chatwidgetmetrics-proxy.usepylon.com
 DOMAIN,content-prod-live.cert.starbucks.com
 DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
 DOMAIN,firebaseinstallations.googleapis.com

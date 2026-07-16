@@ -1,15 +1,13 @@
-# Last Update: 2026-07-15 08:51:44 CST
-# Total Rules: 56
+# Last Update: 2026-07-16 08:56:47 CST
+# Total Rules: 54
 DOMAIN-SUFFIX,sdx.microsoft.com
 DOMAIN,res.cdn.office.net
 DOMAIN-SUFFIX,cn.windowssearch.com
 DOMAIN,res-1.cdn.office.net
 DOMAIN,res-2.cdn.office.net
-DOMAIN-SUFFIX,shell.cdn.office.net
 DOMAIN-SUFFIX,download.microsoft.com
 DOMAIN-SUFFIX,b.c2r.ts.cdn.office.net
 DOMAIN-SUFFIX,ctldl.windowsupdate.com
-DOMAIN-SUFFIX,developer.microsoft.com
 DOMAIN-SUFFIX,f.c2r.ts.cdn.office.net
 DOMAIN-SUFFIX,officecdn.microsoft.com
 DOMAIN-SUFFIX,storeedge.microsoft.com

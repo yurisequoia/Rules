@@ -1,5 +1,5 @@
-# Last Update: 2026-07-15 08:51:44 CST
-# Total Rules: 1972
+# Last Update: 2026-07-16 08:56:47 CST
+# Total Rules: 1964
 .gcr.io
 ghp.ci
 .k8s.io
@@ -153,7 +153,6 @@ apache.40b.nl
 apache.uib.no
 bn.d.miui.com
 cdn.fwupd.org
-centos.nic.cz
 cpan.inode.at
 cpan.pair.com
 cpan.rinet.ru
@@ -200,7 +199,6 @@ kali.itsec.am
 kambing.uu.sg
 kebo.vlsm.org
 linorg.usp.br
-lug.mines.edu
 mirror.ati.tn
 mirror.dkm.cz
 mirror.dst.ca
@@ -369,7 +367,6 @@ ftp.gust.org.pl
 ftp.jaist.ac.jp
 ftp.kaist.ac.kr
 ftp.kddilabs.jp
-ftp.ludd.ltu.se
 ftp.rpmfind.net
 ftp.rz.tu-bs.de
 ftp.stw-bonn.de
@@ -530,7 +527,6 @@ mirror.init7.net
 .mirror.ionos.com
 mirror.it.ubc.ca
 mirror.kakao.com
-mirror.kernel.ir
 mirror.kku.ac.th
 mirror.lagoon.nc
 mirror.limda.net
@@ -550,6 +546,7 @@ mirror.ufs.ac.za
 mirror.ufscar.br
 mirror.veesp.com
 mirror.yandex.ru
+mirror1.hcgen.de
 mirror1.ku.ac.th
 mirrors.asnet.am
 .mirrors.blix.com
@@ -675,7 +672,6 @@ linuxsoft.cern.ch
 mcr.microsoft.com
 mirror.0x626b.com
 mirror.23media.de
-mirror.battern.eu
 mirror.bg.host.ag
 mirror.chmuri.net
 mirror.cs.jmu.edu
@@ -690,7 +686,6 @@ mirror.hoobly.com
 mirror.hostnet.nl
 mirror.insacom.cl
 mirror.its-tps.fr
-mirror.its.dal.ca
 mirror.kkg.berlin
 mirror.koddos.net
 mirror.krfoss.org
@@ -1071,7 +1066,6 @@ debian.unnoba.edu.ar
 docker.cloudsmith.io
 download.amelabs.net
 download.anydesk.com
-download.fosshub.com
 download.maxmind.com
 download.mersenne.ca
 download.mozilla.org
@@ -1165,7 +1159,6 @@ version.cyberduck.io
 www.gtlib.gatech.edu
 .blob.core.windows.net
 cache.pack.google.com
-cdn-ota.azureedge.net
 .cloudflare.docker.com
 .cloudflaremirrors.com
 .cloudflarestorage.com
@@ -1400,7 +1393,6 @@ mirror.nl.altushost.com
 mirror.primelink.net.id
 mirror.tw.ossplanet.net
 mirror.us.oneandone.net
-mirror1.hs-esslingen.de
 mirrors.arpnetworks.com
 mirrors.binaryracks.com
 mirrors.concertpass.com
