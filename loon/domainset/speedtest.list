@@ -1,5 +1,5 @@
-# Last Update: 2026-07-16 08:56:47 CST
-# Total Rules: 3278
+# Last Update: 2026-07-17 09:02:44 CST
+# Total Rules: 3280
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -1478,6 +1478,7 @@ DOMAIN,speedtest1.seiontec.com
 DOMAIN,speedtest1.siriustec.it
 DOMAIN,speedtest1.wlan4rent.nl
 DOMAIN,speedtest2.digimobil.es
+DOMAIN,speedtest2.il.mycci.net
 DOMAIN,speedtest2.openfiber.it
 DOMAIN,speedtest2.pa.mycci.net
 DOMAIN,speedtest4.digimobil.es
@@ -2349,6 +2350,7 @@ DOMAIN,fra1speedtest01.skylogic.com
 DOMAIN,gd-speedtest.homeplus.net.tw
 DOMAIN,gh-speedtest.homeplus.net.tw
 DOMAIN,hk-bgp-speedtest.nearoute.io
+DOMAIN,hmc-speedtest.northstate.net
 DOMAIN,iad-eqx10-ookla-1.99.network
 DOMAIN,kl-speedtest.homeplus.net.tw
 DOMAIN,koreaspeedtest.cmctelecom.vn
