@@ -1,5 +1,5 @@
-# Last Update: 2026-07-20 09:05:21 CST
-# Total Rules: 4550
+# Last Update: 2026-07-21 08:59:35 CST
+# Total Rules: 4551
 0x0.st
 eep.io
 +.esm.sh
@@ -2507,6 +2507,7 @@ cdnapi.kaltura.com
 cdni.iconscout.com
 cdnstatic.w1mp.com
 +.cms-cdn.linear.app
+code.trygravity.ai
 +.colliderimages.com
 content.arduino.cc
 content.gapinc.com

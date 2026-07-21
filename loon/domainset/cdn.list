@@ -1,5 +1,5 @@
-# Last Update: 2026-07-20 09:05:21 CST
-# Total Rules: 4550
+# Last Update: 2026-07-21 08:59:35 CST
+# Total Rules: 4551
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -2507,6 +2507,7 @@ DOMAIN,cdnapi.kaltura.com
 DOMAIN,cdni.iconscout.com
 DOMAIN,cdnstatic.w1mp.com
 DOMAIN-SUFFIX,cms-cdn.linear.app
+DOMAIN,code.trygravity.ai
 DOMAIN-SUFFIX,colliderimages.com
 DOMAIN,content.arduino.cc
 DOMAIN,content.gapinc.com
