@@ -1,5 +1,5 @@
-# Last Update: 2026-07-21 08:59:35 CST
-# Total Rules: 3282
+# Last Update: 2026-07-22 08:56:11 CST
+# Total Rules: 3286
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -428,6 +428,7 @@ DOMAIN,sp1.denbroadband.in
 DOMAIN,sp1.sellnett.com.br
 DOMAIN,sp1.snsinternet.com
 DOMAIN,sp1.suprinet.net.br
+DOMAIN,sp2.clouddesktop.in
 DOMAIN,speed.datahouse.net
 DOMAIN,speed.malang.net.in
 DOMAIN,speed.nutelecom.com
@@ -1151,6 +1152,7 @@ DOMAIN,speedtest.galaxynet.in
 DOMAIN-SUFFIX,speedtest.gibir.net.tr
 DOMAIN,speedtest.hlinknet.com
 DOMAIN,speedtest.hostabil.net
+DOMAIN,speedtest.hostgrap.com
 DOMAIN,speedtest.hostimux.com
 DOMAIN,speedtest.hynetwifi.it
 DOMAIN,speedtest.hyperwave.uk
@@ -2755,6 +2757,7 @@ DOMAIN,speedtest.lakelandnetworks.com
 DOMAIN,speedtest.leer.jonasdevries.de
 DOMAIN,speedtest.maadurgabroadband.in
 DOMAIN,speedtest.macapatelecom.net.br
+DOMAIN,speedtest.marshallfibernet.com
 DOMAIN,speedtest.mel01.launtel.net.au
 DOMAIN,speedtest.mum.vodafoneidea.com
 DOMAIN,speedtest.nikhef.qonnected.net
@@ -3099,6 +3102,7 @@ DOMAIN,acrenettecnologia.brsserver.com.br
 DOMAIN,cust924-london01.tropicalgames.net
 DOMAIN,east-speedtest.frontiernetworks.ca
 DOMAIN,marseille3.d2m.c2d.liveservices.fr
+DOMAIN,navi-mumbai-speedtest.wsnl-isp.net
 DOMAIN,ookla.ber-01.testpub.telefonica.de
 DOMAIN,ookla.cgn-01.testpub.telefonica.de
 DOMAIN,ookla.dus-02.testpub.telefonica.de

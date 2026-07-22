@@ -1,4 +1,4 @@
-# Last Update: 2026-07-21 08:59:35 CST
+# Last Update: 2026-07-22 08:56:11 CST
 # Total Rules: 8
 DOMAIN-WILDCARD,download*.mediafire.com
 DOMAIN-WILDCARD,ftp.??.debian.org

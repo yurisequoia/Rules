@@ -1,5 +1,5 @@
-# Last Update: 2026-07-21 08:59:35 CST
-# Total Rules: 4551
+# Last Update: 2026-07-22 08:56:11 CST
+# Total Rules: 4554
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -979,6 +979,7 @@ DOMAIN,js.prosopo.io
 DOMAIN,js.pusher.com
 DOMAIN,js.stripe.com
 DOMAIN,js.upscope.io
+DOMAIN,kh.google.com
 DOMAIN-SUFFIX,kinja-img.com
 DOMAIN-SUFFIX,klarnacdn.net
 DOMAIN-SUFFIX,line-scdn.net
@@ -2045,6 +2046,7 @@ DOMAIN-SUFFIX,tiles.freemap.sk
 DOMAIN-SUFFIX,tiles.mapbox.com
 DOMAIN,tiles.planet.com
 DOMAIN,tiles.strava.com
+DOMAIN,tiles.zoom.earth
 DOMAIN,time.windows.com
 DOMAIN,townsquare.media
 DOMAIN-SUFFIX,trackerslist.com
@@ -3477,6 +3479,7 @@ DOMAIN,sig.grumpybumpers.com
 DOMAIN,siloh-ns1.plutotv.net
 DOMAIN,speedmedia2.jfrog.com
 DOMAIN-SUFFIX,ssl-images-amazon.com
+DOMAIN,st3.depositphotos.com
 DOMAIN,start-page.buffer.com
 DOMAIN,static-1.bitchute.com
 DOMAIN,static-2.bitchute.com
