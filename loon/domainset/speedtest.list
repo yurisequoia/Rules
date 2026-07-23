@@ -1,5 +1,5 @@
-# Last Update: 2026-07-22 08:56:11 CST
-# Total Rules: 3286
+# Last Update: 2026-07-23 09:03:02 CST
+# Total Rules: 3289
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -2045,6 +2045,7 @@ DOMAIN,speedtest.dsgroupmedia.com
 DOMAIN,speedtest.ed.shawcable.net
 DOMAIN,speedtest.embrasnet.com.br
 DOMAIN,speedtest.empireaccess.com
+DOMAIN,speedtest.fiberlink.com.pe
 DOMAIN,speedtest.fiberlink.net.ua
 DOMAIN,speedtest.gilarivertel.com
 DOMAIN,speedtest.global-layer.com
@@ -2639,7 +2640,9 @@ DOMAIN,speedtest018.telecomitalia.it
 DOMAIN,speedtest019.telecomitalia.it
 DOMAIN,speedtest020.telecomitalia.it
 DOMAIN,speedtest021.telecomitalia.it
+DOMAIN,speedtest1.atl1-us.gozfly.net
 DOMAIN,speedtest1.atlantisnet.com.tr
+DOMAIN,speedtest1.dfw1-us.gozfly.net
 DOMAIN,speedtest1.indosatooredoo.com
 DOMAIN,speedtest1.lax1-us.gozfly.net
 DOMAIN,speedtest1.sc.chinamobile.com
