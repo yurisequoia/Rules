@@ -1,5 +1,5 @@
-# Last Update: 2026-07-23 09:03:02 CST
-# Total Rules: 3289
+# Last Update: 2026-07-24 08:56:33 CST
+# Total Rules: 3292
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -129,6 +129,7 @@ DOMAIN,ookla.apuacom.it
 DOMAIN,ookla.dns-net.de
 DOMAIN,ookla.nieqtv.com
 DOMAIN,ookla.ukcell.net
+DOMAIN,ookla1.btd.co.id
 DOMAIN,ookla1.hub66.com
 DOMAIN,s01.fix-speed.de
 DOMAIN,s02.fix-speed.de
@@ -323,6 +324,7 @@ DOMAIN,speed1.myascend.ca
 DOMAIN,speed2.netlixor.de
 DOMAIN,speed4.snap.net.nz
 DOMAIN,speedam.wsp.net.br
+DOMAIN,speedsg.genznet.id
 DOMAIN,speedtest.58243.as
 DOMAIN,speedtest.alexf.cc
 DOMAIN-SUFFIX,speedtest.aruba.it
@@ -2898,6 +2900,7 @@ DOMAIN,speedtest.pinguimtelecom.net.br
 DOMAIN,speedtest.saidnettelecom.com.br
 DOMAIN,speedtest.southernfiberworx.com
 DOMAIN,speedtest.vienna.nodescrape.net
+DOMAIN,speedtest.xxs-speedtest-zxxy.me
 DOMAIN,speedtest01.adl1.spintel.net.au
 DOMAIN,speedtest01.bluestreamfiber.net
 DOMAIN,speedtest01.bne1.spintel.net.au
