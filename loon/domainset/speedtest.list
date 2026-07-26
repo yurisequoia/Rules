@@ -1,5 +1,5 @@
-# Last Update: 2026-07-25 09:02:41 CST
-# Total Rules: 3293
+# Last Update: 2026-07-26 09:07:49 CST
+# Total Rules: 3294
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -2646,6 +2646,7 @@ DOMAIN,speedtest021.telecomitalia.it
 DOMAIN,speedtest1.atl1-us.gozfly.net
 DOMAIN,speedtest1.atlantisnet.com.tr
 DOMAIN,speedtest1.dfw1-us.gozfly.net
+DOMAIN,speedtest1.iad1-us.gozfly.net
 DOMAIN,speedtest1.indosatooredoo.com
 DOMAIN,speedtest1.lax1-us.gozfly.net
 DOMAIN,speedtest1.sc.chinamobile.com

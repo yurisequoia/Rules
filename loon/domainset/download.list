@@ -1,5 +1,5 @@
-# Last Update: 2026-07-25 09:02:41 CST
-# Total Rules: 1964
+# Last Update: 2026-07-26 09:07:49 CST
+# Total Rules: 1965
 DOMAIN-SUFFIX,gcr.io
 DOMAIN,ghp.ci
 DOMAIN-SUFFIX,k8s.io
@@ -718,6 +718,7 @@ DOMAIN,mirrors.sonic.net
 DOMAIN,mirrors.ucr.ac.cr
 DOMAIN-SUFFIX,mirrorservice.org
 DOMAIN-SUFFIX,mvnrepository.com
+DOMAIN,omtapp.garmin.com
 DOMAIN,opfiles.b-cdn.net
 DOMAIN,ota.googlezip.net
 DOMAIN,packages.sury.org
