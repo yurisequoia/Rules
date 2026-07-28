@@ -1,5 +1,5 @@
-# Last Update: 2026-07-27 09:09:13 CST
-# Total Rules: 3294
+# Last Update: 2026-07-28 08:57:20 CST
+# Total Rules: 3295
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -423,6 +423,7 @@ DOMAIN,ookla01.citynet.net
 DOMAIN,ooklaserver.aryk.fr
 DOMAIN,ooklaspeed.ttron.eu
 DOMAIN,purtel39.purtel.com
+DOMAIN,purtel70.purtel.com
 DOMAIN,sg.st.spacecore.pro
 DOMAIN,sp.merkurnet.com.tr
 DOMAIN,sp01.rbfibra.net.br
