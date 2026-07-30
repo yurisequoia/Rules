@@ -1,5 +1,5 @@
-# Last Update: 2026-07-29 08:59:26 CST
-# Total Rules: 4554
+# Last Update: 2026-07-30 08:55:28 CST
+# Total Rules: 4562
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -1901,6 +1901,10 @@ DOMAIN,img.javstore.net
 DOMAIN,img.jsdelivr.com
 DOMAIN,img.kbhgames.com
 DOMAIN,img.moviefap.com
+DOMAIN,img.novipnoad.ca
+DOMAIN,img.novipnoad.cc
+DOMAIN,img.novipnoad.uk
+DOMAIN,img.novipnoad.us
 DOMAIN,img.olympics.com
 DOMAIN-SUFFIX,img.sooplive.com
 DOMAIN,img.sparemin.com
@@ -2267,6 +2271,9 @@ DOMAIN,images.svc.ui.com
 DOMAIN,images.vexels.com
 DOMAIN-SUFFIX,img.haiwaikan.com
 DOMAIN,img.imoutomoe.net
+DOMAIN,img.novipnoad.com
+DOMAIN,img.novipnoad.net
+DOMAIN,img.novipnoad.xyz
 DOMAIN,img.picacomic.com
 DOMAIN,img.riskified.com
 DOMAIN,img2.gelbooru.com
@@ -2979,6 +2986,7 @@ DOMAIN,static.esimplus.net
 DOMAIN,static.euronews.com
 DOMAIN,static.formula1.com
 DOMAIN,static.getbutton.io
+DOMAIN,static.giffgaff.com
 DOMAIN,static.gigabyte.com
 DOMAIN,static.goaffpro.com
 DOMAIN,static.mendeley.com
