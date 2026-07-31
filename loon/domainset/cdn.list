@@ -1,5 +1,5 @@
-# Last Update: 2026-07-30 08:55:28 CST
-# Total Rules: 4562
+# Last Update: 2026-07-31 09:06:01 CST
+# Total Rules: 4563
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -4444,6 +4444,7 @@ DOMAIN,cdn-widgetsrepository.yotpo.com
 DOMAIN,cdn.playersupport.riotgames.com
 DOMAIN,cdn.techcommunity.microsoft.com
 DOMAIN-SUFFIX,clientmetrics-pa.googleapis.com
+DOMAIN,community-cdn.openstreetmap.org
 DOMAIN,external-content.duckduckgo.com
 DOMAIN,files.mastodon.ktachibana.party
 DOMAIN,hhhhhhome86227170.wordpress.com

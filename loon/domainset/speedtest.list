@@ -1,5 +1,5 @@
-# Last Update: 2026-07-30 08:55:28 CST
-# Total Rules: 3299
+# Last Update: 2026-07-31 09:06:01 CST
+# Total Rules: 3301
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -182,6 +182,7 @@ DOMAIN,nico2004canada.de
 DOMAIN,northernaccess.de
 DOMAIN,ns1.anlnetwork.in
 DOMAIN,ookla-ams.avur.no
+DOMAIN,ookla.intracex.de
 DOMAIN,ookla.lunoxia.net
 DOMAIN,ookla.mbspeed.net
 DOMAIN,ookla.net.unc.edu
@@ -986,6 +987,7 @@ DOMAIN,speedtest.wifiguay.es
 DOMAIN,speedtest.wnet.net.in
 DOMAIN,speedtest.wolfpaw.net
 DOMAIN,speedtest.x-tabqa.com
+DOMAIN,speedtest.xytor.cloud
 DOMAIN,speedtest.zeer.com.br
 DOMAIN,speedtest.zttcc.cloud
 DOMAIN,speedtest02.ikbnet.at
