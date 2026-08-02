@@ -1,5 +1,5 @@
-# Last Update: 2026-08-01 09:04:11 CST
-# Total Rules: 4564
+# Last Update: 2026-08-02 09:07:26 CST
+# Total Rules: 4567
 DOMAIN,7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe
 DOMAIN,0x0.st
 DOMAIN,eep.io
@@ -2478,6 +2478,7 @@ DOMAIN,cdn.convertbox.com
 DOMAIN,cdn.conveythis.com
 DOMAIN,cdn.datatables.net
 DOMAIN,cdn.delight-vr.com
+DOMAIN,cdn.dictionary.com
 DOMAIN-SUFFIX,cdn.discordapp.com
 DOMAIN,cdn.document360.io
 DOMAIN,cdn.fourthwall.com
@@ -2830,6 +2831,7 @@ DOMAIN,cdn.sso.mozilla.com
 DOMAIN,cdn.starapps.studio
 DOMAIN,cdn.tailwindcss.com
 DOMAIN,cdn.theatlantic.com
+DOMAIN,cdn.theregister.com
 DOMAIN,cdn.thingiverse.com
 DOMAIN,cdn.trustedsite.com
 DOMAIN,cdn.webclicks24.com
@@ -3421,6 +3423,7 @@ DOMAIN,i.creativecommons.org
 DOMAIN,icms-image.slatic.net
 DOMAIN,image-cdn.porndig.com
 DOMAIN,image.ship.vercel.com
+DOMAIN,image.theregister.com
 DOMAIN,image.worthepenny.com
 DOMAIN,images-sports.now.com
 DOMAIN,images.contentful.com
