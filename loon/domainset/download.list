@@ -1,5 +1,5 @@
-# Last Update: 2026-08-03 09:07:18 CST
-# Total Rules: 1966
+# Last Update: 2026-08-04 09:00:36 CST
+# Total Rules: 1968
 DOMAIN,7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe
 DOMAIN-SUFFIX,gcr.io
 DOMAIN,ghp.ci
@@ -241,6 +241,7 @@ DOMAIN,disks.webvm.io
 DOMAIN,dl.devmate.com
 DOMAIN,dl.flathub.org
 DOMAIN,dl.nssurge.com
+DOMAIN,dl.pikpak.site
 DOMAIN,dl2.osmand.net
 DOMAIN,dl3.osmand.net
 DOMAIN,dl4.osmand.net
@@ -1406,6 +1407,7 @@ DOMAIN,mirrors.middlendian.com
 DOMAIN,mirrors.nepalicloud.com
 DOMAIN,mirrors.powernet.com.ru
 DOMAIN,mirrors.rackhosting.com
+DOMAIN,node-registry.bit.cloud
 DOMAIN,omtmapupdate.garmin.com
 DOMAIN,packages.virtfusion.net
 DOMAIN,packagespc.xboxlive.com

@@ -1,5 +1,5 @@
-# Last Update: 2026-08-03 09:07:18 CST
-# Total Rules: 9
+# Last Update: 2026-08-04 09:00:36 CST
+# Total Rules: 10
 DOMAIN,7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe
 URL-REGEX,^http://(.+)\.gvt\d\.com/edgedl
 AND,((DOMAIN-KEYWORD,download),(DOMAIN-SUFFIX,mediafire.com))
@@ -9,3 +9,4 @@ AND,((DOMAIN-KEYWORD,s3),(DOMAIN-SUFFIX,backblazeb2.com))
 AND,((DOMAIN-KEYWORD,cdn-),(DOMAIN-SUFFIX,comaps.app))
 AND,((DOMAIN-KEYWORD,cdn-),(DOMAIN-SUFFIX,comaps.tech))
 AND,((DOMAIN-KEYWORD,cdn-),(DOMAIN-SUFFIX,organicmaps.app))
+AND,((DOMAIN-KEYWORD,dl-),(DOMAIN-SUFFIX,mypikpak.com))
