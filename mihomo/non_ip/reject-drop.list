@@ -1,5 +1,5 @@
-# Last Update: 2026-08-04 09:00:36 CST
-# Total Rules: 27
+# Last Update: 2026-08-05 08:55:43 CST
+# Total Rules: 28
 DOMAIN,7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe
 DOMAIN-SUFFIX,null
 DOMAIN-SUFFIX,jpush.cn
@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,femetrics.qagr.io
 DOMAIN,stats.grafana.org
 DOMAIN-SUFFIX,tracking.miui.com
 DOMAIN-SUFFIX,data.grammarly.com
+DOMAIN-SUFFIX,data.microsoft.com
 DOMAIN,stat.youpin.mi.com
 DOMAIN,dataflow.biliapi.com
 DOMAIN,nom.telemetrydeck.com
