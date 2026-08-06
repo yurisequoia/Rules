@@ -1,6 +1,6 @@
-# Last Update: 2026-08-05 08:55:43 CST
-# Total Rules: 3310
-DOMAIN,7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe
+# Last Update: 2026-08-06 08:52:00 CST
+# Total Rules: 3312
+DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -473,6 +473,7 @@ DOMAIN,speedtest.dcnord.ca
 DOMAIN,speedtest.dvois.com
 DOMAIN,speedtest.exatel.pl
 DOMAIN,speedtest.excom.net
+DOMAIN,speedtest.fibrat.es
 DOMAIN,speedtest.flynet.it
 DOMAIN,speedtest.fonira.at
 DOMAIN,speedtest.ftth.wien
@@ -3254,6 +3255,7 @@ DOMAIN,speedtest.mumbai.charotarbroadband.in
 DOMAIN,speedtest01-cty-gfld-ma-prod.gcet.net
 DOMAIN,speedtest1.ric1.va.hostedbackbone.net
 DOMAIN,speedtestbirpara.meghbelabroadband.in
+DOMAIN,7h15_ru1353t_1s_m4d3_by_5ukk4w.skk.moe
 DOMAIN,los-angeles-speedtest.reliablesite.net
 DOMAIN,navegaooklafortaleza.navegamais.com.br
 DOMAIN,speedtest-tesa.coelhotecnologia.com.br
