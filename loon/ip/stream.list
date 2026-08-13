@@ -1,6 +1,5 @@
-# Last Update: 2026-08-13 08:07:41 CST
-# Total Rules: 20
-DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
+# Last Update: 2026-08-13 11:24:21 CST
+# Total Rules: 19
 IP-CIDR,23.246.18.0/23,no-resolve
 IP-CIDR,35.186.224.47/32,no-resolve
 IP-CIDR,37.77.184.0/21,no-resolve
