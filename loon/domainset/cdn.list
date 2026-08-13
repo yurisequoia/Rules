@@ -1,5 +1,5 @@
-# Last Update: 2026-08-12 08:07:57 CST
-# Total Rules: 4618
+# Last Update: 2026-08-13 08:07:41 CST
+# Total Rules: 4624
 DOMAIN,7h15.ru1353t.1s.m4d3.by.5ukk4w.skk.moe
 DOMAIN,0x0.st
 DOMAIN,eep.io
@@ -411,6 +411,7 @@ DOMAIN,cdn.css.net
 DOMAIN,cdn.cuty.io
 DOMAIN,cdn.fera.ai
 DOMAIN,cdn.gist.ai
+DOMAIN,cdn.id.life
 DOMAIN,cdn.mer.run
 DOMAIN,cdn.mida.so
 DOMAIN,cdn.nba.com
@@ -1449,6 +1450,7 @@ DOMAIN,cdn.adguard.com
 DOMAIN,cdn.adsninja.ca
 DOMAIN,cdn.apponic.com
 DOMAIN,cdn.aptoide.com
+DOMAIN,cdn.bitrix24.eu
 DOMAIN,cdn.bsky.social
 DOMAIN,cdn.craft.cloud
 DOMAIN,cdn.daradara.me
@@ -2282,6 +2284,7 @@ DOMAIN-SUFFIX,imagedelivery.net
 DOMAIN-SUFFIX,images-amazon.com
 DOMAIN,images.carfax.com
 DOMAIN,images.mattel.net
+DOMAIN,images.motion.dev
 DOMAIN,images.now-tv.com
 DOMAIN,images.nvidia.com
 DOMAIN,images.pexels.com
@@ -2370,6 +2373,7 @@ DOMAIN,signal.cdnbye.com
 DOMAIN-SUFFIX,simplecastcdn.com
 DOMAIN-SUFFIX,slidesharecdn.com
 DOMAIN,sp.streamlabs.com
+DOMAIN-SUFFIX,spaceship-cdn.com
 DOMAIN,st.codeforces.com
 DOMAIN,st.deviantart.net
 DOMAIN,static-id.fc2.com
@@ -3298,6 +3302,7 @@ DOMAIN,static.incapsula.com
 DOMAIN,static.infomaniak.ch
 DOMAIN,static.macupdate.com
 DOMAIN,static.mediafire.com
+DOMAIN,static.meteoblue.com
 DOMAIN,static.mocortech.com
 DOMAIN,static.newsbreak.com
 DOMAIN,static.parallels.com
@@ -4239,6 +4244,7 @@ DOMAIN,images3.cmp.optimizely.com
 DOMAIN,images4.cmp.optimizely.com
 DOMAIN,imgssl.constantcontact.com
 DOMAIN,launchercontent.mojang.com
+DOMAIN,maps-api-cdn.meteoblue.com
 DOMAIN,mgx-backend-cdn.metadl.com
 DOMAIN,mobilecenter.azureedge.net
 DOMAIN-SUFFIX,myanalytics.cdn.office.net
