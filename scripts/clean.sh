@@ -11,8 +11,9 @@ fi
 FILE="$1"
 
 awk '
-    /^#/                   { next }
-    /-ruleset\.skk\.moe$/  { next }
-    /^[[:space:]]*$/       { next }
+    /^#/                              { next }
+    tolower($0) ~ /(5ukk4w|sukkaw)/   { next }
+    /-ruleset\.skk\.moe$/             { next }
+    /^[[:space:]]*$/                  { next }
     !seen[$0]++
 ' "$FILE" > "${FILE}.tmp" && mv "${FILE}.tmp" "$FILE"
