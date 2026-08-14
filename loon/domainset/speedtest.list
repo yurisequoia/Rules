@@ -1,5 +1,5 @@
-# Last Update: 2026-08-13 11:24:21 CST
-# Total Rules: 3319
+# Last Update: 2026-08-14 08:08:02 CST
+# Total Rules: 3323
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -116,6 +116,7 @@ DOMAIN,speedtest.uv.es
 DOMAIN,st02.mtnsat.net
 DOMAIN,st04.mtnsat.net
 DOMAIN,st1.tbaytel.net
+DOMAIN,stintl.ospot.in
 DOMAIN,tr.hostligo.com
 DOMAIN,warp.cronon.net
 DOMAIN,warsaw.netia.pl
@@ -2319,6 +2320,7 @@ DOMAIN-SUFFIX,speedtest.sukaininfoway.com
 DOMAIN,speedtest.thn.uk.syntura.io
 DOMAIN,speedtest.unitelecom.net.br
 DOMAIN,speedtest.us.mirhosting.net
+DOMAIN,speedtest.usc-dfw1.pllx.net
 DOMAIN,speedtest.vanberkelgroep.nl
 DOMAIN,speedtest.waterloofiber.com
 DOMAIN,speedtest.whiteprovider.net
@@ -2715,6 +2717,7 @@ DOMAIN,velocimetro.proveinter.com.br
 DOMAIN,wybo-speedtest.northstate.net
 DOMAIN,amsterdam.getstreamhosting.com
 DOMAIN,atl-speedtest.shifthosting.com
+DOMAIN,ber-tc.wsqm.telekom-dienste.de
 DOMAIN,beruritelecom.brsserver.com.br
 DOMAIN,chi-speedtest.shifthosting.com
 DOMAIN,cugspeed.chinaunicomglobal.com
@@ -2970,6 +2973,7 @@ DOMAIN,test.internetliontelecom.com.br
 DOMAIN,tsdvuspeedtest01p.allstream.com
 DOMAIN,velocidade.gcnetprovedor.com.br
 DOMAIN,velocidade.idnetttelecom.com.br
+DOMAIN,velocidade.tecsattelecom.com.br
 DOMAIN,velocidade.tecsattelecom.net.br
 DOMAIN,velocimetro.fibernetwork.com.br
 DOMAIN,a-speedtest.brasildigital.net.br
