@@ -1,5 +1,5 @@
-# Last Update: 2026-08-15 07:49:08 CST
-# Total Rules: 3327
+# Last Update: 2026-08-16 07:46:26 CST
+# Total Rules: 3329
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -1102,6 +1102,7 @@ DOMAIN,speed09.gonetspeed.com
 DOMAIN,speed10.gonetspeed.com
 DOMAIN,speed11.gonetspeed.com
 DOMAIN,speed12.gonetspeed.com
+DOMAIN,speed13.gonetspeed.com
 DOMAIN,speedfuentes.jeyca.net
 DOMAIN,speedminas.wifiguay.es
 DOMAIN,speedtest-1.keyubu.com
@@ -1413,6 +1414,7 @@ DOMAIN,speedtest.crservers.com
 DOMAIN,speedtest.csfibernet.in
 DOMAIN,speedtest.ecfaccess.net
 DOMAIN,speedtest.echonet.co.in
+DOMAIN,speedtest.ecmnet.com.br
 DOMAIN-SUFFIX,speedtest.exetel.com.au
 DOMAIN,speedtest.fastel.net.in
 DOMAIN,speedtest.fibercast.net
