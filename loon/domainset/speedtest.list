@@ -1,5 +1,5 @@
-# Last Update: 2026-08-17 07:46:06 CST
-# Total Rules: 3329
+# Last Update: 2026-08-18 07:48:43 CST
+# Total Rules: 3330
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -1580,6 +1580,7 @@ DOMAIN,ipl3pt.fft.ops.eu.uu.net
 DOMAIN,ldnspeedtest.rackdog.com
 DOMAIN,lon-ix1-tptest1.31173.se
 DOMAIN,mumspeedtest.uvfiber.com
+DOMAIN,nohar.softechinfosol.com
 DOMAIN,nyc1-speedtest.webnx.com
 DOMAIN,oak-speedtest.otelco.com
 DOMAIN,okc-speedtest.onenet.net
