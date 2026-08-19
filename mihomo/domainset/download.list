@@ -1,5 +1,5 @@
-# Last Update: 2026-08-19 07:48:34 CST
-# Total Rules: 1964
+# Last Update: 2026-08-20 07:48:42 CST
+# Total Rules: 1965
 +.gcr.io
 ghp.ci
 +.k8s.io
@@ -59,6 +59,7 @@ mr.heru.id
 npm.jsr.io
 osl.ugr.es
 +.archive.org
+cdn.dyn.com
 cdn.kde.org
 +.cdn.ubi.com
 cdn.zoom.us

@@ -1,5 +1,5 @@
-# Last Update: 2026-08-19 07:48:34 CST
-# Total Rules: 82
+# Last Update: 2026-08-20 07:48:42 CST
+# Total Rules: 79
 DOMAIN,cdn-msp.jmcomic.me
 DOMAIN,cdn-msp.18comic.org
 DOMAIN,cdn-msp.18comic.vip
@@ -23,8 +23,6 @@ DOMAIN-KEYWORD,-assets.worldsex.com
 DOMAIN-KEYWORD,-thumbs.worldsex.com
 DOMAIN-KEYWORD,99avcdn
 DOMAIN-KEYWORD,-images.disco-api.com
-DOMAIN-KEYWORD,vdownload.hanime1
-DOMAIN-KEYWORD,fonts.hanime1
 DOMAIN-KEYWORD,static.grammarly.com
 AND,((DOMAIN-KEYWORD,cdn),(DOMAIN-SUFFIX,office.net))
 AND,((DOMAIN-KEYWORD,cdn),(DOMAIN-SUFFIX,microsoft.com))
@@ -74,7 +72,6 @@ AND,((DOMAIN-KEYWORD,skyearth),(DOMAIN-SUFFIX,xyz))
 AND,((DOMAIN-KEYWORD,img),(DOMAIN-KEYWORD,sendibm))
 AND,((DOMAIN-KEYWORD,cdn),(DOMAIN-SUFFIX,18girlssex.com))
 AND,((DOMAIN-KEYWORD,uploads-),(DOMAIN-SUFFIX,insided.com))
-AND,((DOMAIN-KEYWORD,s),(DOMAIN-SUFFIX,hanime1))
 AND,((DOMAIN-KEYWORD,img-),(DOMAIN-SUFFIX,now.com))
 AND,((DOMAIN-KEYWORD,assets),(DOMAIN-SUFFIX,imaga.co))
 AND,((DOMAIN-KEYWORD,cdn),(DOMAIN-SUFFIX,pigav.com))
