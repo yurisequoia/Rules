@@ -1,4 +1,4 @@
-# Last Update: 2026-08-20 07:48:42 CST
+# Last Update: 2026-08-21 07:51:19 CST
 # Total Rules: 14
 IP-CIDR,91.105.192.0/23,no-resolve
 IP-CIDR,91.108.4.0/22,no-resolve

@@ -1,5 +1,5 @@
-# Last Update: 2026-08-20 07:48:42 CST
-# Total Rules: 4626
+# Last Update: 2026-08-21 07:51:19 CST
+# Total Rules: 4625
 0x0.st
 eep.io
 .esm.sh
@@ -542,7 +542,6 @@ pytorch.org
 s.gishan.cc
 s.imgur.com
 s.plurk.com
-s3.aaaaa.io
 s3.masto.ai
 .skypack.dev
 .smilecdn.co
@@ -1469,6 +1468,7 @@ cdn.iporntv.net
 cdn.javmiku.com
 cdn.jetboost.io
 cdn.jolipage.co
+cdn.leonardo.ai
 cdn.mathjax.org
 cdn.mcp-use.com
 cdn.mercury.com
@@ -1555,6 +1555,7 @@ files.slack.com
 .fontawesome.com
 fonts.bunny.net
 fonts.gishan.cc
+fonts.reown.com
 fonts.upset.dev
 fonts.wd40.info
 .gannett-cdn.com
@@ -1665,7 +1666,6 @@ sprig.figma.com
 ssl.gstatic.com
 .stack.imgur.com
 .stackassets.com
-static.bad.news
 static.blip.net
 static.fboom.me
 static.ietf.org
@@ -1801,6 +1801,7 @@ cdn.equalweb.com
 cdn.firebase.com
 cdn.foxycart.com
 cdn.getkoala.com
+cdn.getmerlin.in
 cdn.ghostery.com
 cdn.gofundme.com
 cdn.hashnode.com
@@ -2467,7 +2468,6 @@ assets.jolipage.co
 assets.mailgun.com
 assets.nflxext.com
 assets.nxtrace.org
-assets.onestore.ms
 assets.ontrack.com
 assets.pingone.com
 assets.porndig.com
@@ -2499,7 +2499,6 @@ cdn.boldmethod.com
 cdn.britannica.com
 cdn.bullwhip.cloud
 cdn.cmcmarkets.com
-cdn.commandbar.com
 cdn.contentful.com
 cdn.convertbox.com
 cdn.conveythis.com
@@ -4161,6 +4160,7 @@ psp-logos.uptimerobot.com
 .ravencoinipfs-gateway.com
 report-uri.cloudflare.com
 resource.tnlmediagene.com
+s3.beta.coinmarketcap.com
 scripts.scriptwrapper.com
 simplicity.trustpilot.com
 .smartscreen.microsoft.com
@@ -4589,7 +4589,6 @@ cdn-yotpo-images-production.yotpo.com
 cdn.us-east-1.prod.moon.dubai.aws.dev
 .content-storage-upload.googleapis.com
 firefox.settings.services.mozilla.com
-frames-commandbar-prod.commandbar.com
 frontend-apps-multi-region.workos.com
 pplx-next-static-public.perplexity.ai
 prod-packager-packages.codesandbox.io
