@@ -1,5 +1,5 @@
-# Last Update: 2026-08-21 07:51:19 CST
-# Total Rules: 4625
+# Last Update: 2026-08-22 07:49:42 CST
+# Total Rules: 4626
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -3726,6 +3726,7 @@ DOMAIN,promotions.betfair.com
 DOMAIN,proxy.joinmastodon.org
 DOMAIN,public.flourish.studio
 DOMAIN,res-geo.cdn.office.net
+DOMAIN,resource.logitechg.com
 DOMAIN,resource.video.nimg.jp
 DOMAIN,resources.allstate.com
 DOMAIN,rv-assets.softonic.com
