@@ -1,5 +1,5 @@
-# Last Update: 2026-08-22 07:49:42 CST
-# Total Rules: 4626
+# Last Update: 2026-08-23 07:47:24 CST
+# Total Rules: 4631
 0x0.st
 eep.io
 +.esm.sh
@@ -905,6 +905,7 @@ embed.ted.com
 +.ensighten.com
 eu.cdnbye.com
 +.fastlycdn.com
++.fe.indazn.com
 +.feedercdn.com
 +.fiverrcdn.com
 +.flagpedia.net
@@ -2392,6 +2393,7 @@ static.codepen.io
 static.cracked.ax
 static.cracked.sh
 static.crypto.com
+static.dazndn.com
 +.static.flickr.com
 static.frame.work
 static.garmin.com
@@ -4236,6 +4238,7 @@ frontend-cdn.perplexity.ai
 +.hubspotusercontent-eu1.net
 +.hubspotusercontent-na1.net
 idportal-cdn-prd.unity.com
+image.discovery.indazn.com
 images.applegamingwiki.com
 images.ecomm.microsoft.com
 images.financemagnates.com
@@ -4526,6 +4529,7 @@ b5x-sentry.1passwordservices.com
 cmtycdn.powerpages.microsoft.com
 +.commondatastorage.googleapis.com
 +.crash-reports.browser.yandex.net
+dazn-content-proxy.sd.indazn.com
 detectportal.brave-http-only.com
 edge-mobile-static.azureedge.net
 nbcnewsdigital-static.nbcuni.com
@@ -4577,6 +4581,7 @@ static-assets-prod.unrealengine.com
 stubdownloader.services.mozilla.com
 cf-images.us-east-1.prod.boltdns.net
 content-prod-live.cert.starbucks.com
+contentful-asset-proxy.sd.indazn.com
 +.crashlyticsreports-pa.googleapis.com
 crossborder-integration.global-e.com
 firebaseinstallations.googleapis.com

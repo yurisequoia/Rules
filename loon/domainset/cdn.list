@@ -1,5 +1,5 @@
-# Last Update: 2026-08-22 07:49:42 CST
-# Total Rules: 4626
+# Last Update: 2026-08-23 07:47:24 CST
+# Total Rules: 4631
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -905,6 +905,7 @@ DOMAIN-SUFFIX,emotivecdn.io
 DOMAIN-SUFFIX,ensighten.com
 DOMAIN,eu.cdnbye.com
 DOMAIN-SUFFIX,fastlycdn.com
+DOMAIN-SUFFIX,fe.indazn.com
 DOMAIN-SUFFIX,feedercdn.com
 DOMAIN-SUFFIX,fiverrcdn.com
 DOMAIN-SUFFIX,flagpedia.net
@@ -2392,6 +2393,7 @@ DOMAIN,static.codepen.io
 DOMAIN,static.cracked.ax
 DOMAIN,static.cracked.sh
 DOMAIN,static.crypto.com
+DOMAIN,static.dazndn.com
 DOMAIN-SUFFIX,static.flickr.com
 DOMAIN,static.frame.work
 DOMAIN,static.garmin.com
@@ -4236,6 +4238,7 @@ DOMAIN-SUFFIX,hackerone-user-content.com
 DOMAIN-SUFFIX,hubspotusercontent-eu1.net
 DOMAIN-SUFFIX,hubspotusercontent-na1.net
 DOMAIN,idportal-cdn-prd.unity.com
+DOMAIN,image.discovery.indazn.com
 DOMAIN,images.applegamingwiki.com
 DOMAIN,images.ecomm.microsoft.com
 DOMAIN,images.financemagnates.com
@@ -4526,6 +4529,7 @@ DOMAIN,b5x-sentry.1passwordservices.com
 DOMAIN,cmtycdn.powerpages.microsoft.com
 DOMAIN-SUFFIX,commondatastorage.googleapis.com
 DOMAIN-SUFFIX,crash-reports.browser.yandex.net
+DOMAIN,dazn-content-proxy.sd.indazn.com
 DOMAIN,detectportal.brave-http-only.com
 DOMAIN,edge-mobile-static.azureedge.net
 DOMAIN,nbcnewsdigital-static.nbcuni.com
@@ -4577,6 +4581,7 @@ DOMAIN,static-assets-prod.unrealengine.com
 DOMAIN,stubdownloader.services.mozilla.com
 DOMAIN,cf-images.us-east-1.prod.boltdns.net
 DOMAIN,content-prod-live.cert.starbucks.com
+DOMAIN,contentful-asset-proxy.sd.indazn.com
 DOMAIN-SUFFIX,crashlyticsreports-pa.googleapis.com
 DOMAIN,crossborder-integration.global-e.com
 DOMAIN,firebaseinstallations.googleapis.com
