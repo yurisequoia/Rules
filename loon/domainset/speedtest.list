@@ -1,5 +1,5 @@
-# Last Update: 2026-08-25 07:48:08 CST
-# Total Rules: 3344
+# Last Update: 2026-08-26 07:49:45 CST
+# Total Rules: 3347
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -1168,6 +1168,7 @@ DOMAIN,speedtest.frantic.link
 DOMAIN-SUFFIX,speedtest.frontier.com
 DOMAIN,speedtest.ftmojave.net
 DOMAIN,speedtest.galaxynet.in
+DOMAIN,speedtest.ggcmedia.net
 DOMAIN-SUFFIX,speedtest.gibir.net.tr
 DOMAIN,speedtest.hlinknet.com
 DOMAIN,speedtest.homestube.de
@@ -1812,6 +1813,7 @@ DOMAIN,sanjoseiturbide.openti.mx
 DOMAIN,servidor.speedplay.com.br
 DOMAIN,sp.esim-international.net
 DOMAIN,sp1.hightectelecom.com.br
+DOMAIN,spd-100g-ookla.stelogy.io
 DOMAIN,speed-br2.gigacomm.net.au
 DOMAIN,speed-mel.gigacomm.net.au
 DOMAIN,speed-syd.gigacomm.net.au
@@ -2773,6 +2775,7 @@ DOMAIN,speed.de-west-02.wiit-cloud.io
 DOMAIN,speedtest-1.apvinvestimenti.it
 DOMAIN,speedtest-altavilla.wifiweb.it
 DOMAIN,speedtest-huachuca.cochise.net
+DOMAIN,speedtest-ir-fra03.as207740.de
 DOMAIN,speedtest-lax.advinservers.com
 DOMAIN,speedtest-ldn.voxtelecom.co.za
 DOMAIN,speedtest-lil.one-elephant.org
