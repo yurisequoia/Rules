@@ -1,5 +1,5 @@
-# Last Update: 2026-08-26 07:49:45 CST
-# Total Rules: 158
+# Last Update: 2026-08-27 12:38:52 CST
+# Total Rules: 159
 .xp.apple.com
 .cds.apple.com
 .cl1.apple.com
@@ -115,6 +115,7 @@
 .store.apple.com.edgekey.net
 .swdist.apple.com.akadns.net
 .download.developer.apple.com
+.gspe11-2-cn-ssl.ls.apple.com
 .gspe19-2-cn-ssl.ls.apple.com
 .iosapps.itunes.g.aaplimg.com
 .osxapps.itunes.g.aaplimg.com
