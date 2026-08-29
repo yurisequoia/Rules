@@ -1,5 +1,5 @@
-# Last Update: 2026-08-28 15:01:34 CST
-# Total Rules: 3348
+# Last Update: 2026-08-29 12:16:51 CST
+# Total Rules: 3351
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -1066,6 +1066,7 @@ DOMAIN,ookla-mia.gigsouth.com
 DOMAIN,ookla.gctelecom.com.br
 DOMAIN,ookla.mia.teracast.net
 DOMAIN,ookla.micrologicwv.com
+DOMAIN,ookla.premierdc.com.tr
 DOMAIN-SUFFIX,ookla.surfinternet.com
 DOMAIN,ookla1.talkiefiber.com
 DOMAIN,ookla1.the.net.1310.io
@@ -3071,6 +3072,8 @@ DOMAIN,speedtest.skylink-data-center.nl
 DOMAIN,speedtest.webfibertelecom.com.br
 DOMAIN,speedtest.wifi-communication.com
 DOMAIN,speedtest.winchesterwireless.com
+DOMAIN,speedtest01.mel01.nexthop.net.au
+DOMAIN,speedtest01.syd01.nexthop.net.au
 DOMAIN,speedtest1.kablosuzonline.com.tr
 DOMAIN,speedtest16.mustafasevinc.com.tr
 DOMAIN,speedtest2.lightningfibre.net.uk
