@@ -1,5 +1,5 @@
-# Last Update: 2026-08-29 12:16:51 CST
-# Total Rules: 4632
+# Last Update: 2026-08-30 09:30:58 CST
+# Total Rules: 4639
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -1021,6 +1021,7 @@ DOMAIN,r2.dejavu.moe
 DOMAIN,r2cdn.c7d.dev
 DOMAIN-SUFFIX,randomuser.me
 DOMAIN-SUFFIX,rawgithub.com
+DOMAIN-SUFFIX,rcsobjects.it
 DOMAIN,rdr.windy.com
 DOMAIN-SUFFIX,runkitcdn.com
 DOMAIN-SUFFIX,s-nbcnews.com
@@ -2573,6 +2574,7 @@ DOMAIN,favicon.yandex.net
 DOMAIN,files.gempages.net
 DOMAIN,flows.trysavvy.com
 DOMAIN,fonts.codeberg.org
+DOMAIN-SUFFIX,gazzettaobjects.it
 DOMAIN,genesis-cdn.ff.com
 DOMAIN,global.divhunt.com
 DOMAIN,graph.facebook.com
@@ -2910,6 +2912,7 @@ DOMAIN,error.rakuten.co.jp
 DOMAIN,event.ithome.com.tw
 DOMAIN-SUFFIX,events.backtrace.io
 DOMAIN,favicons.nextdns.io
+DOMAIN,files.blocktempo.ai
 DOMAIN,files.namecheap.com
 DOMAIN-SUFFIX,files.wordpress.com
 DOMAIN,geoserveis.icgc.cat
@@ -3202,6 +3205,7 @@ DOMAIN-SUFFIX,hscollectedforms.net
 DOMAIN,hubspotonwebflow.com
 DOMAIN,icons.duckduckgo.com
 DOMAIN,image-us.samsung.com
+DOMAIN,image.blocktempo.com
 DOMAIN,imageproxy.ifunny.co
 DOMAIN,images.anandtech.com
 DOMAIN,images.blockscan.com
@@ -3348,6 +3352,7 @@ DOMAIN,uploads.pullfrog.com
 DOMAIN,variations.brave.com
 DOMAIN,vice-prod.sdiapi.com
 DOMAIN,video-meta.humix.com
+DOMAIN,video.giroditalia.it
 DOMAIN-SUFFIX,vodvideo.cbsnews.com
 DOMAIN,vpncdn.protonweb.com
 DOMAIN,wandi-6402.kxcdn.com
@@ -3772,6 +3777,7 @@ DOMAIN,static.tradingview.com
 DOMAIN,static.tryprofound.com
 DOMAIN,static.underhentai.net
 DOMAIN,static.webclicks24.com
+DOMAIN,static2.giroditalia.it
 DOMAIN-SUFFIX,static2cdn.hubspot.com
 DOMAIN,statics.streamable.com
 DOMAIN-SUFFIX,storage.googleapis.com
@@ -4022,6 +4028,7 @@ DOMAIN,cms-assets.nodecraft.com
 DOMAIN,conf.config-security.com
 DOMAIN,cookie-cdn.cookiepro.com
 DOMAIN,css.blackmagicdesign.com
+DOMAIN,delivery.twentythree.com
 DOMAIN,detectportal.firefox.com
 DOMAIN,dynamic-cdn.cms.ayoba.me
 DOMAIN,ecn.dev.virtualearth.net

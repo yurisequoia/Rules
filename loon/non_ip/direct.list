@@ -1,5 +1,5 @@
-# Last Update: 2026-08-29 12:16:51 CST
-# Total Rules: 218
+# Last Update: 2026-08-30 09:30:58 CST
+# Total Rules: 219
 DOMAIN-SUFFIX,lan
 DOMAIN-SUFFIX,m2m
 DOMAIN-SUFFIX,home
@@ -169,6 +169,7 @@ DOMAIN,public.localsend.org
 DOMAIN-SUFFIX,blackwell-synergy.com
 DOMAIN,injections.adguard.org
 DOMAIN-SUFFIX,lcdn-locator.apple.com
+DOMAIN,mirrorlist.cdn.skk.moe
 DOMAIN-SUFFIX,classix-unlimited.co.uk
 DOMAIN,instant.arubanetworks.com
 DOMAIN,setmeup.arubanetworks.com

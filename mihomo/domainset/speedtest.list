@@ -1,5 +1,5 @@
-# Last Update: 2026-08-29 12:16:51 CST
-# Total Rules: 3351
+# Last Update: 2026-08-30 09:30:58 CST
+# Total Rules: 3353
 +.fast.com
 fastme.ir
 +.nperf.net
@@ -765,6 +765,7 @@ spt-for1.edgeuno.com
 spt-jfk1.edgeuno.com
 spt-lax1.edgeuno.com
 spt-lon1.edgeuno.com
+spt-noc.umal-nds.com
 spt-sjo1.edgeuno.com
 srv-st03.arcolink.it
 srv-st04.arcolink.it
@@ -1785,6 +1786,7 @@ veloteste.mrjomar.com.br
 aragonnetspeedtest.com.br
 bassoon-sg-1.violin.co.th
 bursaspeedtest.pendns.net
+cns-speedtest.duckdns.org
 hiztesti-ist.codit.com.tr
 hl-speed.twmbroadband.com
 iskendurum.veganet.com.tr

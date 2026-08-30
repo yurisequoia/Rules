@@ -1,5 +1,5 @@
-# Last Update: 2026-08-29 12:16:51 CST
-# Total Rules: 1965
+# Last Update: 2026-08-30 09:30:58 CST
+# Total Rules: 1966
 .gcr.io
 ghp.ci
 .k8s.io
@@ -1630,6 +1630,7 @@ pubmirrors.dal.corespace.com
 redstone-launcher.mojang.com
 softwareupdate.pilotmoon.com
 update.code.visualstudio.com
+assets-tcpviewer.proxyman.com
 centos-stream.ip-connect.info
 .cos.ap-singapore.myqcloud.com
 .cos.eu-frankfurt.myqcloud.com

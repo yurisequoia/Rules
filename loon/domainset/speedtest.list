@@ -1,5 +1,5 @@
-# Last Update: 2026-08-29 12:16:51 CST
-# Total Rules: 3351
+# Last Update: 2026-08-30 09:30:58 CST
+# Total Rules: 3353
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -765,6 +765,7 @@ DOMAIN,spt-for1.edgeuno.com
 DOMAIN,spt-jfk1.edgeuno.com
 DOMAIN,spt-lax1.edgeuno.com
 DOMAIN,spt-lon1.edgeuno.com
+DOMAIN,spt-noc.umal-nds.com
 DOMAIN,spt-sjo1.edgeuno.com
 DOMAIN,srv-st03.arcolink.it
 DOMAIN,srv-st04.arcolink.it
@@ -1785,6 +1786,7 @@ DOMAIN,veloteste.mrjomar.com.br
 DOMAIN,aragonnetspeedtest.com.br
 DOMAIN,bassoon-sg-1.violin.co.th
 DOMAIN,bursaspeedtest.pendns.net
+DOMAIN,cns-speedtest.duckdns.org
 DOMAIN,hiztesti-ist.codit.com.tr
 DOMAIN,hl-speed.twmbroadband.com
 DOMAIN,iskendurum.veganet.com.tr
