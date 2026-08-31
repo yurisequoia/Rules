@@ -1,5 +1,5 @@
-# Last Update: 2026-08-30 09:30:58 CST
-# Total Rules: 27
+# Last Update: 2026-08-31 09:31:03 CST
+# Total Rules: 28
 DOMAIN-SUFFIX,null
 DOMAIN-SUFFIX,jpush.cn
 DOMAIN-SUFFIX,jpush.io
@@ -11,6 +11,7 @@ DOMAIN-SUFFIX,slackb.com
 DOMAIN-SUFFIX,trace.qq.com
 DOMAIN-SUFFIX,beacon.qq.com
 DOMAIN-SUFFIX,geo2.adobe.com
+DOMAIN,data.bilibili.com
 DOMAIN-SUFFIX,easytomessage.com
 DOMAIN-SUFFIX,femetrics.qagr.io
 DOMAIN,stats.grafana.org
