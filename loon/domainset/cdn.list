@@ -1,5 +1,5 @@
-# Last Update: 2026-08-31 09:31:03 CST
-# Total Rules: 4645
+# Last Update: 2026-09-01 09:58:56 CST
+# Total Rules: 4646
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -4575,6 +4575,7 @@ DOMAIN-SUFFIX,assets.brightspot.abebooks.a2z.com
 DOMAIN,categoriespages-cdn.trustpilot.net
 DOMAIN,cdn-a.sonyentertainmentnetwork.com
 DOMAIN,cdn.prod.ext.web.purview.azure.com
+DOMAIN,client-log-forwarder.1password.com
 DOMAIN,consumersite-assets.trustpilot.net
 DOMAIN,content-management-files.canva.com
 DOMAIN,disco-static.productessentials.app
