@@ -1,5 +1,5 @@
-# Last Update: 2026-09-04 09:12:25 CST
-# Total Rules: 3361
+# Last Update: 2026-09-05 09:17:44 CST
+# Total Rules: 3363
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -1722,6 +1722,7 @@ DOMAIN,speedtest.technofiber.co
 DOMAIN,speedtest.twinvalley.net
 DOMAIN,speedtest.unifica.net.br
 DOMAIN,speedtest.vanciscloud.nl
+DOMAIN,speedtest.virtical.cloud
 DOMAIN-SUFFIX,speedtest.windstream.net
 DOMAIN,speedtest.worldstream.nl
 DOMAIN,speedtest.wrinternet.com
@@ -2593,6 +2594,7 @@ DOMAIN,brindb2speed1.wireline.com.au
 DOMAIN,chi-speedtest.net.sangoma.net
 DOMAIN,cspeedtest.candorsolution.com
 DOMAIN,dal-speedtest.net.sangoma.net
+DOMAIN,dlls-speedtest.northstate.net
 DOMAIN,dns.yesindiacommunications.in
 DOMAIN,edgemark-chi.cust.edgemark.io
 DOMAIN,edgemark-lax.cust.edgemark.io
