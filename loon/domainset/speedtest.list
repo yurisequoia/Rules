@@ -1,5 +1,5 @@
-# Last Update: 2026-09-05 09:17:44 CST
-# Total Rules: 3363
+# Last Update: 2026-09-06 09:15:34 CST
+# Total Rules: 3364
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -345,6 +345,7 @@ DOMAIN,speedtest.inoc.net
 DOMAIN,speedtest.itel.com
 DOMAIN,speedtest.k-fo.net
 DOMAIN,speedtest.ktis.net
+DOMAIN,speedtest.lazco.tw
 DOMAIN,speedtest.lcom.net
 DOMAIN,speedtest.mdtc.net
 DOMAIN,speedtest.mhtc.net
