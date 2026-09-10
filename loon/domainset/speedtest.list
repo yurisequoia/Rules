@@ -1,5 +1,5 @@
-# Last Update: 2026-09-09 09:24:25 CST
-# Total Rules: 3368
+# Last Update: 2026-09-10 09:20:00 CST
+# Total Rules: 3371
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -142,6 +142,7 @@ DOMAIN,sp1.ecolink.coop
 DOMAIN,sp1.vlink.net.br
 DOMAIN,sp3.atcc-gns.net
 DOMAIN,sp7.atcc-gns.net
+DOMAIN,speed.fiber23.it
 DOMAIN-SUFFIX,speed.misaka.one
 DOMAIN,speed.sparcs.net
 DOMAIN,speed2.suitit.nl
@@ -157,6 +158,7 @@ DOMAIN,speedtest.hep.gg
 DOMAIN-SUFFIX,speedtest.idv.tw
 DOMAIN,speedtest.kko.me
 DOMAIN,speedtest.nt.net
+DOMAIN,speedtest.oa.net
 DOMAIN,speedtest.oc.edu
 DOMAIN,speedtest.ohz.es
 DOMAIN-SUFFIX,speedtest.pni.tw
@@ -712,6 +714,7 @@ DOMAIN,speedtest.nethiz.net
 DOMAIN,speedtest.netrack.ru
 DOMAIN,speedtest.oopaya.com
 DOMAIN,speedtest.quadro.net
+DOMAIN,speedtest.quickqc.nl
 DOMAIN-SUFFIX,speedtest.railtel.in
 DOMAIN,speedtest.sentco.net
 DOMAIN,speedtest.spd.net.tr
