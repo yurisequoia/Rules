@@ -1,5 +1,5 @@
-# Last Update: 2026-09-12 09:24:25 CST
-# Total Rules: 1268
+# Last Update: 2026-09-13 11:28:13 CST
+# Total Rules: 1269
 DOMAIN-SUFFIX,ac
 DOMAIN-SUFFIX,ai
 DOMAIN-SUFFIX,at
@@ -759,6 +759,7 @@ DOMAIN-SUFFIX,bitchute.com
 DOMAIN-SUFFIX,bitfinex.com
 DOMAIN-SUFFIX,blizzard.com
 DOMAIN-SUFFIX,blogblog.com
+DOMAIN-SUFFIX,boxcloud.com
 DOMAIN-SUFFIX,broadcom.com
 DOMAIN-SUFFIX,cachefly.net
 DOMAIN-SUFFIX,capitalg.com

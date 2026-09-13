@@ -1,5 +1,5 @@
-# Last Update: 2026-09-12 09:24:25 CST
-# Total Rules: 1966
+# Last Update: 2026-09-13 11:28:13 CST
+# Total Rules: 1967
 .gcr.io
 ghp.ci
 .k8s.io
@@ -242,6 +242,7 @@ debian.mnet.bg
 disks.webvm.io
 dl.devmate.com
 dl.flathub.org
+dl.gl-inet.com
 dl.nssurge.com
 dl.pikpak.site
 dl2.osmand.net

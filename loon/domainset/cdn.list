@@ -1,5 +1,5 @@
-# Last Update: 2026-09-12 09:24:25 CST
-# Total Rules: 4653
+# Last Update: 2026-09-13 11:28:13 CST
+# Total Rules: 4655
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -3068,6 +3068,7 @@ DOMAIN,storageapi.fleek.co
 DOMAIN,sync.getpublica.com
 DOMAIN,tag.unifyintent.com
 DOMAIN,tags.nationwide.com
+DOMAIN,thumb.wikimedia.org
 DOMAIN,thumbs.onlyfans.com
 DOMAIN,thumbs2.sendvid.com
 DOMAIN,tile2.intervals.icu
@@ -3282,6 +3283,7 @@ DOMAIN,r2cdn.myshopline.com
 DOMAIN,rapid-cdn.yottaa.com
 DOMAIN,reload.getsentry.net
 DOMAIN,res-3.cdn.office.net
+DOMAIN,resources.redbull.tv
 DOMAIN,resources.whatwg.org
 DOMAIN,rs-cdn.splashtop.com
 DOMAIN,rules1.clearurls.xyz
