@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 用法：python3 domainset.py file.raw.list
-输出：file.proceed.list（同目录）
+输出：file.list（同目录）
 
 转换规则：
   .example.com  → DOMAIN-SUFFIX,example.com
@@ -28,11 +28,14 @@ def main():
         sys.exit(1)
 
     input_path = Path(sys.argv[1])
+    if not input_path.name.endswith(".raw.list"):
+        print("错误：输入文件必须以 .raw.list 结尾。", file=sys.stderr)
+        sys.exit(1)
     if not input_path.exists():
         print(f"错误：找不到文件 {input_path}", file=sys.stderr)
         sys.exit(1)
 
-    output_path = input_path.with_name(input_path.name.replace(".raw.list", ".list"))
+    output_path = input_path.with_name(input_path.name.removesuffix(".raw.list") + ".list")
 
     seen: set[str] = set()
     results: list[str] = []

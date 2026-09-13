@@ -15,6 +15,10 @@ fi
 
 FILE="$1"
 SCRIPTS_DIR="$2"
+if [[ "$FILE" != *.raw.list ]]; then
+    echo "错误：输入文件必须以 .raw.list 结尾。" >&2
+    exit 1
+fi
 TMPDIR_LOCAL="$(mktemp -d)"
 trap 'rm -rf "$TMPDIR_LOCAL"' EXIT
 
@@ -22,12 +26,14 @@ RAW_TMP="${TMPDIR_LOCAL}/wildcard.raw.list"
 PROCEED_TMP="${TMPDIR_LOCAL}/wildcard.list"
 
 # 1. 提取 DOMAIN-WILDCARD 行，去掉 "DOMAIN-WILDCARD," 前缀
-grep '^DOMAIN-WILDCARD,' "$FILE" \
-    | sed 's/^DOMAIN-WILDCARD,//' \
-    > "$RAW_TMP" || true   # 没有匹配行时 grep 返回 1，允许继续
+grep '^DOMAIN-WILDCARD,' "$FILE" > "${TMPDIR_LOCAL}/matches" || {
+    status=$?
+    [[ "$status" -eq 1 ]] || exit "$status"
+}
+sed 's/^DOMAIN-WILDCARD,//' "${TMPDIR_LOCAL}/matches" > "$RAW_TMP"
 
 # 确定最终输出路径（.raw.list → .list）
-OUTPUT_FILE="${FILE/.raw.list/.list}"
+OUTPUT_FILE="${FILE%.raw.list}.list"
 
 if [[ ! -s "$RAW_TMP" ]]; then
     # 没有 DOMAIN-WILDCARD 行，直接去重写出 .list，删除 .raw.list
@@ -41,7 +47,10 @@ python3 "${SCRIPTS_DIR}/w2l.py" "$RAW_TMP"
 
 # 3. 合并：原文件去掉 DOMAIN-WILDCARD 行 + 转换结果，整体去重，写入 .list
 {
-    grep -v '^DOMAIN-WILDCARD,' "$FILE" || true
+    grep -v '^DOMAIN-WILDCARD,' "$FILE" || {
+        status=$?
+        [[ "$status" -eq 1 ]] || exit "$status"
+    }
     cat "$PROCEED_TMP"
 } | awk '
     /^[[:space:]]*$/ { next }
