@@ -1,5 +1,5 @@
-# Last Update: 2026-09-18 09:24:11 CST
-# Total Rules: 1967
+# Last Update: 2026-09-19 09:27:29 CST
+# Total Rules: 1968
 DOMAIN-SUFFIX,gcr.io
 DOMAIN,ghp.ci
 DOMAIN-SUFFIX,k8s.io
@@ -217,6 +217,7 @@ DOMAIN-SUFFIX,mirrors.cu.be
 DOMAIN,mirrors.up.pt
 DOMAIN-SUFFIX,ossplanet.org
 DOMAIN-SUFFIX,packagist.org
+DOMAIN,repo.xtom.com
 DOMAIN,repository.su
 DOMAIN-SUFFIX,s3.yandex.net
 DOMAIN,sft.if.usp.br

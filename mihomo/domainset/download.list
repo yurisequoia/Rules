@@ -1,5 +1,5 @@
-# Last Update: 2026-09-18 09:24:11 CST
-# Total Rules: 1967
+# Last Update: 2026-09-19 09:27:29 CST
+# Total Rules: 1968
 +.gcr.io
 ghp.ci
 +.k8s.io
@@ -217,6 +217,7 @@ mirror.yer.az
 mirrors.up.pt
 +.ossplanet.org
 +.packagist.org
+repo.xtom.com
 repository.su
 +.s3.yandex.net
 sft.if.usp.br

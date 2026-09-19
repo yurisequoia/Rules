@@ -1,5 +1,5 @@
-# Last Update: 2026-09-18 09:24:11 CST
-# Total Rules: 865
+# Last Update: 2026-09-19 09:27:29 CST
+# Total Rules: 866
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,6.cn
 DOMAIN-SUFFIX,t.cn
@@ -772,6 +772,7 @@ DOMAIN-SUFFIX,onlinedown.com
 DOMAIN-SUFFIX,openinstall.io
 DOMAIN-SUFFIX,oppomobile.com
 DOMAIN-SUFFIX,qyerstatic.com
+DOMAIN-SUFFIX,rednotecdn.com
 DOMAIN,res.viayoo.com
 DOMAIN-SUFFIX,steamchina.com
 DOMAIN-SUFFIX,tianyancha.com
