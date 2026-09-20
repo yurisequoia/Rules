@@ -1,5 +1,5 @@
-# Last Update: 2026-09-19 09:27:29 CST
-# Total Rules: 4664
+# Last Update: 2026-09-20 09:28:18 CST
+# Total Rules: 4665
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -984,6 +984,7 @@ DOMAIN-SUFFIX,ipfs.slang.cx
 DOMAIN-SUFFIX,itvstatic.com
 DOMAIN-SUFFIX,jdbstatic.com
 DOMAIN-SUFFIX,jisuimage.com
+DOMAIN,js.arcgis.com
 DOMAIN,js.klarna.com
 DOMAIN,js.prosopo.io
 DOMAIN,js.pusher.com
