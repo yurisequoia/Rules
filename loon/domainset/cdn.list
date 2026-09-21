@@ -1,5 +1,5 @@
-# Last Update: 2026-09-20 09:28:18 CST
-# Total Rules: 4665
+# Last Update: 2026-09-21 09:25:40 CST
+# Total Rules: 4671
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -2187,6 +2187,7 @@ DOMAIN-SUFFIX,cdn.greenhouse.io
 DOMAIN,cdn.growthbook.io
 DOMAIN,cdn.headwayapp.co
 DOMAIN,cdn.himetrica.com
+DOMAIN,cdn.infrawire.net
 DOMAIN,cdn.ipregistry.co
 DOMAIN,cdn.jetphotos.com
 DOMAIN,cdn.joinhoney.com
@@ -2599,6 +2600,7 @@ DOMAIN,home.integrate.com
 DOMAIN,icons.ferndocs.com
 DOMAIN,icons.veryicon.com
 DOMAIN,iframe.nbcnews.com
+DOMAIN,image-tc.galaxy.tf
 DOMAIN,image.jnislniv.xyz
 DOMAIN,image.yuntu.com.tw
 DOMAIN,image.yymanhua.com
@@ -3079,6 +3081,7 @@ DOMAIN,thumbs.onlyfans.com
 DOMAIN,thumbs2.sendvid.com
 DOMAIN,tile2.intervals.icu
 DOMAIN,tiles.mapillary.com
+DOMAIN,tileserver.b10s.net
 DOMAIN,time.cloudflare.com
 DOMAIN,tuf-repo.github.com
 DOMAIN,ui.contentstack.com
@@ -3599,6 +3602,7 @@ DOMAIN-SUFFIX,svbtleusercontent.com
 DOMAIN,themes.fourthwall.com
 DOMAIN-SUFFIX,tile.openstreetmap.de
 DOMAIN-SUFFIX,tile.openstreetmap.fr
+DOMAIN,tiles.flightaware.com
 DOMAIN,tiles.openfreemap.org
 DOMAIN,uploads.bikeindex.org
 DOMAIN,uploads.sitepoint.com
@@ -3747,6 +3751,7 @@ DOMAIN,nodeassets.nbcnews.com
 DOMAIN-SUFFIX,packd.liuxingbaoyu.xyz
 DOMAIN,parts.blog.livedoor.jp
 DOMAIN-SUFFIX,patreonusercontent.com
+DOMAIN,photos.flightaware.com
 DOMAIN,pic.onlinewebfonts.com
 DOMAIN,pkg-cdn.jetbrains.team
 DOMAIN,platform.instagram.com
@@ -3884,6 +3889,7 @@ DOMAIN,cdn.prod.www.spiegel.de
 DOMAIN,cdn.ready-market.com.tw
 DOMAIN-SUFFIX,cdn.survey.medallia.com
 DOMAIN,cdn.worldvectorlogo.com
+DOMAIN,cdn1.singteldigital.com
 DOMAIN,cdnstatic.porno-cum.com
 DOMAIN,cdnstatic.tencentcs.com
 DOMAIN,cms.worldpokerdeals.com
