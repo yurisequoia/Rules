@@ -1,5 +1,5 @@
-# Last Update: 2026-09-26 09:50:46 CST
-# Total Rules: 4674
+# Last Update: 2026-09-27 09:40:01 CST
+# Total Rules: 4675
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -1198,6 +1198,7 @@ DOMAIN-SUFFIX,cursor-cdn.com
 DOMAIN,d.newsweek.com
 DOMAIN,dc-cdn.cdw.com
 DOMAIN-SUFFIX,descopecdn.com
+DOMAIN,dma.canyon.com
 DOMAIN-SUFFIX,doppiocdn.live
 DOMAIN-SUFFIX,dummyimage.com
 DOMAIN-SUFFIX,ebaystatic.com
@@ -2324,7 +2325,6 @@ DOMAIN,img3.airdroid.com
 DOMAIN,img4.airdroid.com
 DOMAIN,img6.airdroid.com
 DOMAIN,imgcdn.cna.com.tw
-DOMAIN-SUFFIX,ipfs.ecolatam.com
 DOMAIN,js.chilipiper.com
 DOMAIN,js.convertflow.co
 DOMAIN,js1.chargebee.com
@@ -2988,6 +2988,7 @@ DOMAIN-SUFFIX,media.amplience.net
 DOMAIN,media.breitbart.com
 DOMAIN,media.crazyshit.com
 DOMAIN,media.glassdoor.com
+DOMAIN,media.karousell.com
 DOMAIN,media.newyorker.com
 DOMAIN,media.shopimind.com
 DOMAIN-SUFFIX,media.strapiapp.com

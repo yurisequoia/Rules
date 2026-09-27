@@ -1,9 +1,20 @@
-# Last Update: 2026-09-26 09:50:46 CST
-# Total Rules: 7
+# Last Update: 2026-09-27 09:40:01 CST
+# Total Rules: 18
+DOMAIN-SUFFIX,tbcdn.cn
 DOMAIN-SUFFIX,hdslb.com
 DOMAIN-SUFFIX,qhimg.com
 DOMAIN-SUFFIX,qhres.com
+DOMAIN-SUFFIX,zhimg.com
+DOMAIN-SUFFIX,alicdn.com
 DOMAIN-SUFFIX,qhimgs.com
 DOMAIN-SUFFIX,qhres2.com
+DOMAIN-SUFFIX,sinaimg.cn
+DOMAIN-SUFFIX,biliimg.com
+DOMAIN-SUFFIX,sinaimg.com
+DOMAIN-SUFFIX,360buyimg.com
 DOMAIN-SUFFIX,music.126.net
+DOMAIN-SUFFIX,alipayobjects.com
+DOMAIN,registry.npmmirror.com
+DOMAIN-SUFFIX,tx-safety-video.acfun.cn
+DOMAIN-SUFFIX,ali-safety-video.acfun.cn
 DOMAIN-KEYWORD,qhimgs

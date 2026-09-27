@@ -1,5 +1,5 @@
-# Last Update: 2026-09-26 09:50:46 CST
-# Total Rules: 4674
+# Last Update: 2026-09-27 09:40:01 CST
+# Total Rules: 4675
 0x0.st
 eep.io
 +.esm.sh
@@ -1198,6 +1198,7 @@ consent.fmm.io
 d.newsweek.com
 dc-cdn.cdw.com
 +.descopecdn.com
+dma.canyon.com
 +.doppiocdn.live
 +.dummyimage.com
 +.ebaystatic.com
@@ -2324,7 +2325,6 @@ img3.airdroid.com
 img4.airdroid.com
 img6.airdroid.com
 imgcdn.cna.com.tw
-+.ipfs.ecolatam.com
 js.chilipiper.com
 js.convertflow.co
 js1.chargebee.com
@@ -2988,6 +2988,7 @@ media-cdn.factba.se
 media.breitbart.com
 media.crazyshit.com
 media.glassdoor.com
+media.karousell.com
 media.newyorker.com
 media.shopimind.com
 +.media.strapiapp.com
