@@ -1,5 +1,5 @@
-# Last Update: 2026-09-28 09:54:52 CST
-# Total Rules: 3400
+# Last Update: 2026-09-29 10:40:23 CST
+# Total Rules: 3401
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -2237,6 +2237,7 @@ DOMAIN,uptelecom.brsserver.com.br
 DOMAIN,urbanonet.brsserver.com.br
 DOMAIN,vanspeedtest.altimatel.com
 DOMAIN,velocidad.fiberlink.com.pa
+DOMAIN,velocimetro.smartmovel.net
 DOMAIN,wipl-speedtest.wipl.online
 DOMAIN,yjl-speed.twmbroadband.com
 DOMAIN,172673828273027382738738.de
