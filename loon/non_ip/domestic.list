@@ -1,5 +1,5 @@
-# Last Update: 2026-09-30 10:18:08 CST
-# Total Rules: 870
+# Last Update: 2026-10-01 10:18:29 CST
+# Total Rules: 871
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,6.cn
 DOMAIN-SUFFIX,t.cn
@@ -851,6 +851,7 @@ DOMAIN-SUFFIX,chinanetcenter.com
 DOMAIN-SUFFIX,dl.pinyuncloud.com
 DOMAIN-SUFFIX,heytapdownload.com
 DOMAIN-SUFFIX,samsungcloudcn.com
+DOMAIN,time.xtracloud.net
 DOMAIN-SUFFIX,alibabachengdun.com
 DOMAIN-SUFFIX,anticheatexpert.com
 DOMAIN,assets1.xboxlive.cn

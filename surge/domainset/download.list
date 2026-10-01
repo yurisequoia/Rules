@@ -1,5 +1,5 @@
-# Last Update: 2026-09-30 10:18:08 CST
-# Total Rules: 1968
+# Last Update: 2026-10-01 10:18:29 CST
+# Total Rules: 1970
 .gcr.io
 ghp.ci
 .k8s.io
@@ -103,6 +103,7 @@ ctan.math.ca
 d2.myani.org
 deb.sury.org
 debian.a1.bg
+dl.heycue.io
 dl.pikpak.io
 ftp.agdsn.de
 ftp.antik.sk
@@ -618,6 +619,7 @@ dl.vibeisland.app
 dlcdnets.asus.com
 download.cnet.com
 download.gimp.org
+download.manus.im
 download.xbox.com
 .fastly.docker.com
 .files.ghostty.org

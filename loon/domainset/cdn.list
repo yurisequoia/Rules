@@ -1,5 +1,5 @@
-# Last Update: 2026-09-30 10:18:08 CST
-# Total Rules: 4676
+# Last Update: 2026-10-01 10:18:29 CST
+# Total Rules: 4678
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -3919,6 +3919,7 @@ DOMAIN,image-stgus.samsung.com
 DOMAIN,imagecdn.clips4sale.com
 DOMAIN,imagizer.imageshack.com
 DOMAIN,img.api.tryprofound.com
+DOMAIN,img.helpnetsecurity.com
 DOMAIN,img0.socialshopwave.com
 DOMAIN,img1.ak.crunchyroll.com
 DOMAIN,img1.socialshopwave.com
@@ -4087,6 +4088,7 @@ DOMAIN,images.flightradar24.com
 DOMAIN,images.indianexpress.com
 DOMAIN,images.purevpn-tools.com
 DOMAIN,images.spectrumnews1.com
+DOMAIN,img2.helpnetsecurity.com
 DOMAIN,integrations.gitbook.com
 DOMAIN-SUFFIX,ipfs0.sjc.cloudsigma.com
 DOMAIN,keyframe-cdn.abcnews.com
