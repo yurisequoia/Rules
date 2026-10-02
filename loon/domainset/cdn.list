@@ -1,5 +1,5 @@
-# Last Update: 2026-10-01 10:18:29 CST
-# Total Rules: 4678
+# Last Update: 2026-10-02 10:29:01 CST
+# Total Rules: 4680
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -118,6 +118,7 @@ DOMAIN-SUFFIX,epimg.net
 DOMAIN-SUFFIX,erocdn.co
 DOMAIN-SUFFIX,eth.sucks
 DOMAIN-SUFFIX,f-cdn.com
+DOMAIN-SUFFIX,fal.media
 DOMAIN-SUFFIX,fbcdn.com
 DOMAIN-SUFFIX,fbcdn.net
 DOMAIN-SUFFIX,fbsbx.com
@@ -3864,6 +3865,7 @@ DOMAIN-SUFFIX,assets.digitalocean.com
 DOMAIN,assets.lemonsqueezy.com
 DOMAIN,assets.mcp.corespeed.io
 DOMAIN,assets.science.nasa.gov
+DOMAIN,assets.singaporeair.com
 DOMAIN,assets.streamlinehq.com
 DOMAIN,assets.xboxservices.com
 DOMAIN,assets1.lottiefiles.com
