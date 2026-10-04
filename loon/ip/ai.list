@@ -1,5 +1,5 @@
-# Last Update: 2026-10-03 10:14:43 CST
-# Total Rules: 23
+# Last Update: 2026-10-04 10:49:07 CST
+# Total Rules: 24
 IP-CIDR,4.151.200.38/32,no-resolve
 IP-CIDR,4.155.146.196/32,no-resolve
 IP-CIDR,4.197.172.116/32,no-resolve
@@ -23,3 +23,4 @@ IP-CIDR,172.203.39.49/32,no-resolve
 IP-CIDR,172.207.173.200/32,no-resolve
 IP-CIDR,172.214.226.198/32,no-resolve
 IP-CIDR,191.233.251.27/32,no-resolve
+IP-ASN,399358

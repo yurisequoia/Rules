@@ -1,8 +1,9 @@
-# Last Update: 2026-10-03 10:14:43 CST
-# Total Rules: 50
+# Last Update: 2026-10-04 10:49:07 CST
+# Total Rules: 51
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,clau.de
 DOMAIN-SUFFIX,dify.ai
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,poe.com
