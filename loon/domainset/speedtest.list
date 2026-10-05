@@ -1,5 +1,5 @@
-# Last Update: 2026-10-04 10:49:07 CST
-# Total Rules: 3410
+# Last Update: 2026-10-05 10:16:57 CST
+# Total Rules: 3411
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -2659,6 +2659,7 @@ DOMAIN,spd01-monr-ca.gigglefiber.com
 DOMAIN,speed-miss.systemlifeline.com
 DOMAIN,speed.alliedcorporation.co.in
 DOMAIN,speed.bitnettecnologia.com.br
+DOMAIN,speed01.mil01.cmp.hb-bkbn.net
 DOMAIN,speednet-atn.brsserver.com.br
 DOMAIN,speedtest-adl.optusnet.com.au
 DOMAIN,speedtest-alm-nl.as215248.net
