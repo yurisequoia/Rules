@@ -1,5 +1,5 @@
-# Last Update: 2026-10-07 10:37:28 CST
-# Total Rules: 3414
+# Last Update: 2026-10-08 10:50:45 CST
+# Total Rules: 3415
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -1535,6 +1535,7 @@ DOMAIN,speedtest2.digimobil.es
 DOMAIN,speedtest2.il.mycci.net
 DOMAIN,speedtest2.openfiber.it
 DOMAIN,speedtest2.pa.mycci.net
+DOMAIN,speedtest3nl.quickqc.nl
 DOMAIN,speedtest4.digimobil.es
 DOMAIN,speedtest5.fybercom.net
 DOMAIN,speedtest6.digimobil.es
