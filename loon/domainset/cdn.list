@@ -1,5 +1,5 @@
-# Last Update: 2026-10-08 10:50:45 CST
-# Total Rules: 4680
+# Last Update: 2026-10-09 11:02:08 CST
+# Total Rules: 4684
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -1778,6 +1778,7 @@ DOMAIN,assets.stash.com
 DOMAIN,assets.toot.cafe
 DOMAIN,assets.twitch.tv
 DOMAIN,assets.upload.io
+DOMAIN,assets.vanta.com
 DOMAIN,assets.vogue.com
 DOMAIN,assets.volvo.com
 DOMAIN,assets.xmind.net
@@ -2349,6 +2350,7 @@ DOMAIN,media.nownews.com
 DOMAIN-SUFFIX,media.zestyio.com
 DOMAIN-SUFFIX,mediadelivery.net
 DOMAIN-SUFFIX,monitor.azure.com
+DOMAIN,n.approveit.today
 DOMAIN,netlify.apollo.io
 DOMAIN-SUFFIX,notion-static.com
 DOMAIN,ocsp.comodoca.com
@@ -4389,6 +4391,7 @@ DOMAIN,player-frontend.cnevids.com
 DOMAIN,prego-cache.prod.sketch.com
 DOMAIN,public-pages.cbinsights.com
 DOMAIN,resources-live.sketch.cloud
+DOMAIN,rum-ingest.us1.signalfx.com
 DOMAIN,safebrowsing.googleapis.com
 DOMAIN,sessions-bugsnag.docker.com
 DOMAIN-SUFFIX,siteintercept.qualtrics.com
@@ -4398,6 +4401,7 @@ DOMAIN,static-homepage-en.pluto.tv
 DOMAIN,static-mh.content.disney.io
 DOMAIN,static-production.npmjs.com
 DOMAIN,static-webfonts.myfonts.com
+DOMAIN,static.acm.account.sony.com
 DOMAIN,static.captcha-delivery.com
 DOMAIN,sts.online.visualstudio.com
 DOMAIN,tvdownloaddw-a.akamaihd.net
