@@ -1,5 +1,5 @@
-# Last Update: 2026-10-12 10:35:31 CST
-# Total Rules: 3423
+# Last Update: 2026-10-13 11:45:16 CST
+# Total Rules: 3424
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -773,6 +773,7 @@ DOMAIN,speedtest3.lepida.it
 DOMAIN,speedtest31.turk.net
 DOMAIN,speedtest33.turk.net
 DOMAIN,speedtest4.lepida.it
+DOMAIN,speedtest5.mywnz.com
 DOMAIN,speedtest54.turk.net
 DOMAIN,speedtest59.turk.net
 DOMAIN,speedtest61.turk.net
