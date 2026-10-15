@@ -1,5 +1,5 @@
-# Last Update: 2026-10-14 10:05:23 CST
-# Total Rules: 3424
+# Last Update: 2026-10-15 09:42:06 CST
+# Total Rules: 3425
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -293,6 +293,7 @@ DOMAIN,hk.mymonitor.space
 DOMAIN,kh1.chtm.hinet.net
 DOMAIN-SUFFIX,measurementlab.net
 DOMAIN,one.speed.c4g7.com
+DOMAIN,ookla.argsment.com
 DOMAIN,ookla.as400442.net
 DOMAIN,ookla.bigredne.com
 DOMAIN-SUFFIX,ookla.ddnsgeek.com

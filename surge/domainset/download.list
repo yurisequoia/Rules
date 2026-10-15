@@ -1,5 +1,5 @@
-# Last Update: 2026-10-14 10:05:23 CST
-# Total Rules: 1971
+# Last Update: 2026-10-15 09:42:06 CST
+# Total Rules: 1972
 .gcr.io
 ghp.ci
 .k8s.io
@@ -1016,6 +1016,7 @@ packages.termux.dev
 pubmirror.plutex.de
 release.runcloud.io
 releases.claude.com
+releases.openai.com
 replicate.npmjs.com
 repo.extreme-ix.org
 .s3-website.cloud.ru

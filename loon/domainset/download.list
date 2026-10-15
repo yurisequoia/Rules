@@ -1,5 +1,5 @@
-# Last Update: 2026-10-14 10:05:23 CST
-# Total Rules: 1971
+# Last Update: 2026-10-15 09:42:06 CST
+# Total Rules: 1972
 DOMAIN-SUFFIX,gcr.io
 DOMAIN,ghp.ci
 DOMAIN-SUFFIX,k8s.io
@@ -1016,6 +1016,7 @@ DOMAIN,packages.termux.dev
 DOMAIN,pubmirror.plutex.de
 DOMAIN,release.runcloud.io
 DOMAIN,releases.claude.com
+DOMAIN,releases.openai.com
 DOMAIN,replicate.npmjs.com
 DOMAIN,repo.extreme-ix.org
 DOMAIN-SUFFIX,s3-website.cloud.ru
