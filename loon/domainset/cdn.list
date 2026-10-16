@@ -1,5 +1,5 @@
-# Last Update: 2026-10-15 09:42:06 CST
-# Total Rules: 4688
+# Last Update: 2026-10-16 09:35:32 CST
+# Total Rules: 4689
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -1589,6 +1589,7 @@ DOMAIN,icons.llamao.fi
 DOMAIN,image.gyutto.jp
 DOMAIN,image.status.io
 DOMAIN,images.dmca.com
+DOMAIN,images.higgs.ai
 DOMAIN,images.kick.com
 DOMAIN,images.pluto.tv
 DOMAIN,images.vudu.com
