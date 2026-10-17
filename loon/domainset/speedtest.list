@@ -1,5 +1,5 @@
-# Last Update: 2026-10-16 09:35:32 CST
-# Total Rules: 3427
+# Last Update: 2026-10-17 09:26:38 CST
+# Total Rules: 3430
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -547,6 +547,7 @@ DOMAIN,speedtest.xsnews.nl
 DOMAIN,speedtest.xxlnet.nl
 DOMAIN,speedtest1.claro.cr
 DOMAIN,speedtest1.co-fi.es
+DOMAIN,speedtest2.co-fi.es
 DOMAIN,speedtest2.telin.sg
 DOMAIN,speedtest3.dacor.de
 DOMAIN-SUFFIX,speedtestcustom.com
@@ -3096,6 +3097,7 @@ DOMAIN,ookla-london.briantbroadband.com
 DOMAIN,ookla-london01.tropicalgames.net
 DOMAIN,ookla.jgainterlinktelecom.com.br
 DOMAIN,ooklaspeedtest.wilcowireless.com
+DOMAIN,pri-r450-speedtest.metrocomm.com
 DOMAIN,puteaux3.d2m.c2d.liveservices.fr
 DOMAIN,qoeookla-mimi-01.sys.comcast.net
 DOMAIN,qoeookla-ncst-01.sys.comcast.net
@@ -3369,6 +3371,7 @@ DOMAIN,sfosj0096speedtestserver02.wiline.com
 DOMAIN,speedtest-eastburwood.optusnet.com.au
 DOMAIN,speedtest-germany.veribarindir.com.tr
 DOMAIN,speedtest-sydney.macquarietelecom.com
+DOMAIN,speedtest.fiberlinksolutionsltd.co.ke
 DOMAIN,speedtest.mumbai.charotarbroadband.in
 DOMAIN,speedtest01-cty-gfld-ma-prod.gcet.net
 DOMAIN,speedtest1.ric1.va.hostedbackbone.net
