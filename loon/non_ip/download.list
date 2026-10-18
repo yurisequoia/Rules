@@ -1,4 +1,4 @@
-# Last Update: 2026-10-17 09:26:38 CST
+# Last Update: 2026-10-18 09:24:51 CST
 # Total Rules: 9
 URL-REGEX,^http://(.+)\.gvt\d\.com/edgedl
 AND,((DOMAIN-KEYWORD,download),(DOMAIN-SUFFIX,mediafire.com))
