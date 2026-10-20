@@ -1,5 +1,5 @@
-# Last Update: 2026-10-19 09:32:09 CST
-# Total Rules: 1274
+# Last Update: 2026-10-20 10:00:11 CST
+# Total Rules: 1275
 DOMAIN-SUFFIX,ac
 DOMAIN-SUFFIX,ai
 DOMAIN-SUFFIX,at
@@ -529,6 +529,7 @@ DOMAIN-SUFFIX,nextdns.io
 DOMAIN-SUFFIX,nextjs.org
 DOMAIN-SUFFIX,nikkei.com
 DOMAIN-SUFFIX,nitter.net
+DOMAIN-SUFFIX,notion.com
 DOMAIN-SUFFIX,nypost.com
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,odysee.com
