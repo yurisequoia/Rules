@@ -1,5 +1,5 @@
-# Last Update: 2026-10-20 10:00:11 CST
-# Total Rules: 3439
+# Last Update: 2026-10-21 09:52:01 CST
+# Total Rules: 3440
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -1859,6 +1859,7 @@ DOMAIN,servidor.speedplay.com.br
 DOMAIN,sp.esim-international.net
 DOMAIN,sp1.hightectelecom.com.br
 DOMAIN,spd-100g-ookla.stelogy.io
+DOMAIN,spdgnet.gnetserver.com.br
 DOMAIN,speed-br2.gigacomm.net.au
 DOMAIN,speed-mel.gigacomm.net.au
 DOMAIN,speed-syd.gigacomm.net.au

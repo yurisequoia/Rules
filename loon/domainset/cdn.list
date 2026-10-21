@@ -1,5 +1,5 @@
-# Last Update: 2026-10-20 10:00:11 CST
-# Total Rules: 4694
+# Last Update: 2026-10-21 09:52:01 CST
+# Total Rules: 4696
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -2002,6 +2002,7 @@ DOMAIN,media3.giphy.com
 DOMAIN,media4.giphy.com
 DOMAIN-SUFFIX,meetupstatic.com
 DOMAIN,meteorclient.com
+DOMAIN,metrics.manus.im
 DOMAIN-SUFFIX,mirror-media.xyz
 DOMAIN-SUFFIX,neweggimages.com
 DOMAIN,ocsp.godaddy.com
@@ -3981,6 +3982,7 @@ DOMAIN,scripts.dailymail.co.uk
 DOMAIN,server.arcgisonline.com
 DOMAIN,static-assets.juksy.com
 DOMAIN,static-images.remax.com
+DOMAIN,static-page.tp-link.com
 DOMAIN,static.chrome-stats.com
 DOMAIN,static.fastboostcdn.com
 DOMAIN,static.filestackapi.com
