@@ -1,5 +1,5 @@
-# Last Update: 2026-10-22 09:42:38 CST
-# Total Rules: 3440
+# Last Update: 2026-10-23 09:46:37 CST
+# Total Rules: 3444
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -60,6 +60,7 @@ DOMAIN,de-lg.h2.nexus
 DOMAIN,nl.tanhost.com
 DOMAIN,ny1.ocean.host
 DOMAIN,o-uk-1.flwc.cc
+DOMAIN,ookla.alida.it
 DOMAIN-SUFFIX,ookla.bytel.fr
 DOMAIN,owst.gilat.net
 DOMAIN,perf.keyyo.net
@@ -625,6 +626,7 @@ DOMAIN,ookla.snt.utwente.nl
 DOMAIN,ookla.svw.as6453.net
 DOMAIN,ookla.tv2.as6453.net
 DOMAIN,ookla.xponnet.com.br
+DOMAIN,perf1.moji1.sapi.net
 DOMAIN,pl-1.node.delton.ovh
 DOMAIN,qspt.technofiber.net
 DOMAIN,scnx-ng01.homesc.com
@@ -1880,6 +1882,7 @@ DOMAIN,speedtest-hk.tgb-host.com
 DOMAIN,speedtest-ict.ideatek.com
 DOMAIN,speedtest-jp.tgb-host.com
 DOMAIN,speedtest-london.start.ca
+DOMAIN,speedtest-net.hyprnode.de
 DOMAIN,speedtest-satt.pr-link.at
 DOMAIN,speedtest-tf.masmovil.com
 DOMAIN,speedtest.603.sbaedge.net
@@ -2255,6 +2258,7 @@ DOMAIN,testvelocidadten.orange.es
 DOMAIN,testvelocidadval.orange.es
 DOMAIN,testvelocidadvld.orange.es
 DOMAIN,trtspeedtest.altimatel.com
+DOMAIN,tx.speedtest.openinfra.com
 DOMAIN,txg-speedtest.infinirc.com
 DOMAIN,uptelecom.brsserver.com.br
 DOMAIN,urbanonet.brsserver.com.br
