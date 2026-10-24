@@ -1,5 +1,5 @@
-# Last Update: 2026-10-23 09:46:37 CST
-# Total Rules: 84
+# Last Update: 2026-10-24 09:51:24 CST
+# Total Rules: 85
 DOMAIN,cdn-msp.jmcomic.me
 DOMAIN,cdn-msp.18comic.org
 DOMAIN,cdn-msp.18comic.vip
@@ -84,3 +84,4 @@ DOMAIN-WILDCARD,cdn*.porn87.com
 DOMAIN-WILDCARD,cdn*.pornhost.com
 DOMAIN-WILDCARD,cdn*.boysfood.com
 DOMAIN-WILDCARD,rum-ingest.*.signalfx.com
+DOMAIN-WILDCARD,cf-images.*.prod.boltdns.net

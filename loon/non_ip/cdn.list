@@ -1,5 +1,5 @@
-# Last Update: 2026-10-23 09:46:37 CST
-# Total Rules: 80
+# Last Update: 2026-10-24 09:51:24 CST
+# Total Rules: 81
 DOMAIN,cdn-msp.jmcomic.me
 DOMAIN,cdn-msp.18comic.org
 DOMAIN,cdn-msp.18comic.vip
@@ -80,3 +80,4 @@ AND,((DOMAIN-KEYWORD,cdn),(DOMAIN-SUFFIX,porn87.com))
 AND,((DOMAIN-KEYWORD,cdn),(DOMAIN-SUFFIX,pornhost.com))
 AND,((DOMAIN-KEYWORD,cdn),(DOMAIN-SUFFIX,boysfood.com))
 AND,((DOMAIN-KEYWORD,rum-ingest),(DOMAIN-SUFFIX,signalfx.com))
+AND,((DOMAIN-KEYWORD,cf-images),(DOMAIN-SUFFIX,prod.boltdns.net))
