@@ -1,5 +1,5 @@
-# Last Update: 2026-10-24 09:51:24 CST
-# Total Rules: 4705
+# Last Update: 2026-10-25 09:27:38 CST
+# Total Rules: 4707
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -2308,6 +2308,7 @@ DOMAIN,image.ap-mail.org
 DOMAIN,image.civitai.com
 DOMAIN,image.comicbz.com
 DOMAIN,image.freepik.com
+DOMAIN,image.gameapps.hk
 DOMAIN,image.mgstage.com
 DOMAIN,image.prntscr.com
 DOMAIN,image.xmanhua.net
@@ -2751,6 +2752,7 @@ DOMAIN,static.snaptube.in
 DOMAIN,static.srcspot.com
 DOMAIN,static.svc.litv.tv
 DOMAIN,static.tp-link.com
+DOMAIN,static.truemed.com
 DOMAIN,static.uptimia.com
 DOMAIN,static.workday.com
 DOMAIN,static.xgroovy.com
