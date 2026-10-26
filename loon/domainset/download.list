@@ -1,5 +1,5 @@
-# Last Update: 2026-10-25 09:27:38 CST
-# Total Rules: 1971
+# Last Update: 2026-10-26 09:31:16 CST
+# Total Rules: 1968
 DOMAIN-SUFFIX,gcr.io
 DOMAIN,ghp.ci
 DOMAIN-SUFFIX,k8s.io
@@ -131,7 +131,6 @@ DOMAIN-SUFFIX,fuwamofu.com
 DOMAIN,gotest.tools
 DOMAIN,lib.ugent.be
 DOMAIN,mir.linux.kg
-DOMAIN,mirror.0x.sg
 DOMAIN,mirror.5i.fi
 DOMAIN,mirror.a1.mk
 DOMAIN-SUFFIX,mirror.ac.ke
@@ -828,7 +827,6 @@ DOMAIN,mirror.isoc.org.il
 DOMAIN,mirror.karneval.cz
 DOMAIN,mirror.katapult.io
 DOMAIN,mirror.liquidrp.de
-DOMAIN,mirror.marcusn.net
 DOMAIN,mirror.papua.go.id
 DOMAIN,mirror.previder.nl
 DOMAIN,mirror.reverse.net
@@ -1014,6 +1012,7 @@ DOMAIN,mirrors.xtom.com.hk
 DOMAIN,opensource.xtdv.net
 DOMAIN,packages.termux.dev
 DOMAIN,pubmirror.plutex.de
+DOMAIN,registry.gitlab.com
 DOMAIN,release.runcloud.io
 DOMAIN,releases.claude.com
 DOMAIN,replicate.npmjs.com
@@ -1276,7 +1275,6 @@ DOMAIN,downloads.majestic.com
 DOMAIN,downloads.portainer.io
 DOMAIN,enterprise.proxmox.com
 DOMAIN,fdroid.tetaneutral.net
-DOMAIN,ftp.tsukuba.wide.ad.jp
 DOMAIN,ftpmirror1.infania.net
 DOMAIN,gog-cdn-fastly.gog.com
 DOMAIN,i18n.prismlauncher.org
@@ -1346,7 +1344,6 @@ DOMAIN,vfat.classicreload.com
 DOMAIN,vn-mirrors.techhost.vn
 DOMAIN-SUFFIX,wup.eshop.nintendo.net
 DOMAIN,www.gutscheinrausch.de
-DOMAIN,www2.aomeisoftware.com
 DOMAIN,apache.ip-connect.vn.ua
 DOMAIN,apache.miloslavbrada.cz
 DOMAIN,archive.raspberrypi.com

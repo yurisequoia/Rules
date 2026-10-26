@@ -1,5 +1,5 @@
-# Last Update: 2026-10-25 09:27:38 CST
-# Total Rules: 1971
+# Last Update: 2026-10-26 09:31:16 CST
+# Total Rules: 1968
 .gcr.io
 ghp.ci
 .k8s.io
@@ -131,7 +131,6 @@ ftp5.gwdg.de
 gotest.tools
 lib.ugent.be
 mir.linux.kg
-mirror.0x.sg
 mirror.5i.fi
 mirror.a1.mk
 .mirror.ac.ke
@@ -828,7 +827,6 @@ mirror.isoc.org.il
 mirror.karneval.cz
 mirror.katapult.io
 mirror.liquidrp.de
-mirror.marcusn.net
 mirror.papua.go.id
 mirror.previder.nl
 mirror.reverse.net
@@ -1014,6 +1012,7 @@ mirrors.xtom.com.hk
 opensource.xtdv.net
 packages.termux.dev
 pubmirror.plutex.de
+registry.gitlab.com
 release.runcloud.io
 releases.claude.com
 replicate.npmjs.com
@@ -1276,7 +1275,6 @@ downloads.majestic.com
 downloads.portainer.io
 enterprise.proxmox.com
 fdroid.tetaneutral.net
-ftp.tsukuba.wide.ad.jp
 ftpmirror1.infania.net
 gog-cdn-fastly.gog.com
 i18n.prismlauncher.org
@@ -1346,7 +1344,6 @@ vfat.classicreload.com
 vn-mirrors.techhost.vn
 .wup.eshop.nintendo.net
 www.gutscheinrausch.de
-www2.aomeisoftware.com
 apache.ip-connect.vn.ua
 apache.miloslavbrada.cz
 archive.raspberrypi.com
