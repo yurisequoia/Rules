@@ -1,5 +1,5 @@
-# Last Update: 2026-10-30 10:49:04 CST
-# Total Rules: 1275
+# Last Update: 2026-10-31 10:39:26 CST
+# Total Rules: 1276
 DOMAIN-SUFFIX,ac
 DOMAIN-SUFFIX,ai
 DOMAIN-SUFFIX,at
@@ -268,6 +268,7 @@ DOMAIN-SUFFIX,nest.com
 DOMAIN-SUFFIX,njav.com
 DOMAIN-SUFFIX,noip.com
 DOMAIN-SUFFIX,note.com
+DOMAIN-SUFFIX,npmx.dev
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,ping0.cc
 DOMAIN-SUFFIX,pomf.cat
