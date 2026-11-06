@@ -1,5 +1,5 @@
-# Last Update: 2026-11-05 11:39:02 CST
-# Total Rules: 869
+# Last Update: 2026-11-06 11:34:50 CST
+# Total Rules: 870
 DOMAIN-SUFFIX,3.cn
 DOMAIN-SUFFIX,6.cn
 DOMAIN-SUFFIX,t.cn
@@ -614,6 +614,7 @@ DOMAIN-SUFFIX,dbankcdn.com
 DOMAIN-SUFFIX,dcarlive.com
 DOMAIN-SUFFIX,dianping.com
 DOMAIN-SUFFIX,dingtalk.com
+DOMAIN-SUFFIX,dittocdn.com
 DOMAIN-SUFFIX,dizzylab.net
 DOMAIN-SUFFIX,doubanio.com
 DOMAIN-SUFFIX,douyucdn2.cn
