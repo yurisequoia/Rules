@@ -1,5 +1,5 @@
-# Last Update: 2026-11-06 11:34:50 CST
-# Total Rules: 3467
+# Last Update: 2026-11-07 11:03:47 CST
+# Total Rules: 3473
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -2511,6 +2511,7 @@ DOMAIN,speedfor.infolinktelecom.com
 DOMAIN,speedhn.radius2online.com.tr
 DOMAIN,speedtest-01.nhbroadband.com
 DOMAIN,speedtest-bassano.wifiweb.it
+DOMAIN,speedtest-din.rapidnet.co.in
 DOMAIN,speedtest-hob.launtel.net.au
 DOMAIN,speedtest-miami.grupogtd.com
 DOMAIN,speedtest-mil.connectlife.it
@@ -2794,6 +2795,7 @@ DOMAIN,speedtest1.indosatooredoo.com
 DOMAIN,speedtest1.lax1-us.gozfly.net
 DOMAIN,speedtest1.sc.chinamobile.com
 DOMAIN,speedtest2.comvergence.com.au
+DOMAIN,speedtest2.honeybroadband.com
 DOMAIN,speedtestacibadem.netspeed.tr
 DOMAIN,speedtestboca.gethotwired.com
 DOMAIN,speedtestdelhi.digiwaynet.com
@@ -2856,6 +2858,7 @@ DOMAIN,mrutooklaspeed1.jioconnect.com
 DOMAIN,mumbooklaspeed1.jioconnect.com
 DOMAIN,nvmbooklaspeed1.jioconnect.com
 DOMAIN,ookla-estepona.aerioncloud.com
+DOMAIN,ooklaserver.dlls.tx.ogital.net
 DOMAIN,seawa00-speedtest.etstelco.com
 DOMAIN,seveninternet.brsserver.com.br
 DOMAIN,sgarooklaspeed1.jioconnect.com
@@ -3043,6 +3046,7 @@ DOMAIN,speedtest.amsterdam.valtrix.org
 DOMAIN,speedtest.bradfordbroadband.com
 DOMAIN,speedtest.conectstelecom.com.br
 DOMAIN,speedtest.deltatelecomam.com.br
+DOMAIN,speedtest.dreamnetgigafiber.com
 DOMAIN,speedtest.euronettelecom.com.br
 DOMAIN,speedtest.extremanetwork.com.br
 DOMAIN,speedtest.g5nortetelecom.com.br
@@ -3065,6 +3069,7 @@ DOMAIN,speedtest01.per1.spintel.net.au
 DOMAIN,speedtest01.syd1.spintel.net.au
 DOMAIN,speedtest02.bluestreamfiber.net
 DOMAIN,speedtest03.bluestreamfiber.net
+DOMAIN,speedtest1-phnyazjv.as20055.net
 DOMAIN,speedtest1-qupra-ams-nl.ebgp.fi
 DOMAIN,speedtest1-sttlwawb.as20055.net
 DOMAIN,speedtest1.ewr.nj.us.planet.net
@@ -3133,6 +3138,7 @@ DOMAIN,puteaux3.d2m.c2d.liveservices.fr
 DOMAIN,qoeookla-mimi-01.sys.comcast.net
 DOMAIN,qoeookla-ncst-01.sys.comcast.net
 DOMAIN,qoeookla-rmnd-01.sys.comcast.net
+DOMAIN,qoeookla-seat-01.sys.comcast.net
 DOMAIN,ran-r450-speedtest.metrocomm.com
 DOMAIN,reunion3.d2m.c2d.liveservices.fr
 DOMAIN,sam1speedtest.turktelekom.com.tr
