@@ -1,5 +1,5 @@
-# Last Update: 2026-11-07 11:03:47 CST
-# Total Rules: 3473
+# Last Update: 2026-11-08 10:38:51 CST
+# Total Rules: 3476
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -2652,6 +2652,7 @@ DOMAIN,ty-bgp-speedtest.nearoute.io
 DOMAIN,ty-speedtest.homeplus.net.tw
 DOMAIN,uplinkfibra.brsserver.com.br
 DOMAIN,velocidade.csrnetwork.com.br
+DOMAIN,velocidade.danieltechpro.com
 DOMAIN,velocidade.exytelecom.com.br
 DOMAIN,velocidade.gtmtelecom.com.br
 DOMAIN,velocidade.hnaconecta.com.br
@@ -2721,6 +2722,7 @@ DOMAIN,speedtest-nl.cloudlease.co.il
 DOMAIN,speedtest-ntt-fra.as20011.net
 DOMAIN,speedtest-ntt-ldn.as20011.net
 DOMAIN,speedtest-obd.redeconecta.com
+DOMAIN,speedtest-par.flowhardware.ch
 DOMAIN,speedtest-srv-a.homeworks.org
 DOMAIN,speedtest-stm.redeconecta.com
 DOMAIN,speedtest-syd.optusnet.com.au
@@ -2858,6 +2860,7 @@ DOMAIN,mrutooklaspeed1.jioconnect.com
 DOMAIN,mumbooklaspeed1.jioconnect.com
 DOMAIN,nvmbooklaspeed1.jioconnect.com
 DOMAIN,ookla-estepona.aerioncloud.com
+DOMAIN,ooklaserver.asbn.va.ogital.net
 DOMAIN,ooklaserver.dlls.tx.ogital.net
 DOMAIN,seawa00-speedtest.etstelco.com
 DOMAIN,seveninternet.brsserver.com.br
