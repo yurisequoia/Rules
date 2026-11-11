@@ -1,5 +1,5 @@
-# Last Update: 2026-11-10 12:31:52 CST
-# Total Rules: 1968
+# Last Update: 2026-11-11 10:38:00 CST
+# Total Rules: 1969
 DOMAIN-SUFFIX,gcr.io
 DOMAIN,ghp.ci
 DOMAIN-SUFFIX,k8s.io
@@ -345,6 +345,7 @@ DOMAIN,apache.saix.net
 DOMAIN,apache.uvigo.es
 DOMAIN,apt.izzysoft.de
 DOMAIN,c.1password.com
+DOMAIN,cdn.altstore.io
 DOMAIN,cpan.stu.edu.tw
 DOMAIN,cpan.webdesk.ru
 DOMAIN,ctan.ebinger.cc

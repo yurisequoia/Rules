@@ -1,5 +1,5 @@
-# Last Update: 2026-11-10 12:31:52 CST
-# Total Rules: 3479
+# Last Update: 2026-11-11 10:38:00 CST
+# Total Rules: 3483
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -2087,6 +2087,7 @@ DOMAIN,speed-mix.dispaisy.systems
 DOMAIN,speed.airwavesinternet.com
 DOMAIN,speed.connextelecom.com.br
 DOMAIN,speed.cyborgtelecom.com.br
+DOMAIN,speed.isrcomunicaciones.es
 DOMAIN,speed.matrixtelecon.com.br
 DOMAIN,speed.vm.brs.marcusn.co.uk
 DOMAIN,speedbodrum.fizynet.com.tr
@@ -2300,6 +2301,7 @@ DOMAIN,h1-speedtest-ba.htelecom.es
 DOMAIN,ham.wsqm.telekom-dienste.de
 DOMAIN,hizbalikesir.durunet.com.tr
 DOMAIN,hizgaziantep.durunet.com.tr
+DOMAIN,ihgtelecom.brsserver.com.br
 DOMAIN,ipl3pt.syd.ops.aspac.uu.net
 DOMAIN,itanetwork.brsserver.com.br
 DOMAIN,lax-cos2-ookla-1.99.network
@@ -2863,6 +2865,7 @@ DOMAIN,mumbooklaspeed1.jioconnect.com
 DOMAIN,nvmbooklaspeed1.jioconnect.com
 DOMAIN,ookla-estepona.aerioncloud.com
 DOMAIN,ooklaserver.asbn.va.ogital.net
+DOMAIN,ooklaserver.atln.ga.ogital.net
 DOMAIN,ooklaserver.dlls.tx.ogital.net
 DOMAIN,seawa00-speedtest.etstelco.com
 DOMAIN,seveninternet.brsserver.com.br
@@ -3419,6 +3422,7 @@ DOMAIN,sfosj0096speedtestserver01.wiline.com
 DOMAIN,sfosj0096speedtestserver02.wiline.com
 DOMAIN,speedtest-eastburwood.optusnet.com.au
 DOMAIN,speedtest-germany.veribarindir.com.tr
+DOMAIN,speedtest-phoenix.resoundnetworks.com
 DOMAIN,speedtest-sydney.macquarietelecom.com
 DOMAIN,speedtest.fiberlinksolutionsltd.co.ke
 DOMAIN,speedtest.mumbai.charotarbroadband.in
