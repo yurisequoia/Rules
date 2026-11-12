@@ -1,5 +1,5 @@
-# Last Update: 2026-11-11 10:38:00 CST
-# Total Rules: 3483
+# Last Update: 2026-11-12 11:40:28 CST
+# Total Rules: 3485
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -1163,6 +1163,7 @@ DOMAIN,speedtest.3dnet.net.br
 DOMAIN,speedtest.3jglobal.com
 DOMAIN,speedtest.aattizen.net
 DOMAIN,speedtest.aeza.network
+DOMAIN,speedtest.alpenhost.at
 DOMAIN,speedtest.amnet.net.br
 DOMAIN,speedtest.as203446.net
 DOMAIN,speedtest.as210667.net
@@ -2565,6 +2566,7 @@ DOMAIN,speedtest.impactusnet.net.br
 DOMAIN,speedtest.inclusivebytes.org
 DOMAIN,speedtest.infogamesvr.net.br
 DOMAIN,speedtest.interligpro.com.br
+DOMAIN,speedtest.internetarribes.es
 DOMAIN,speedtest.internetbolaget.nu
 DOMAIN,speedtest.internetsubway.com
 DOMAIN,speedtest.isppapagaio.com.br
