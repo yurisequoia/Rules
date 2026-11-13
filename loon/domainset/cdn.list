@@ -1,5 +1,5 @@
-# Last Update: 2026-11-12 11:40:28 CST
-# Total Rules: 4698
+# Last Update: 2026-11-13 11:16:30 CST
+# Total Rules: 4699
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -3258,6 +3258,7 @@ DOMAIN,imgproxy.flathub.org
 DOMAIN,instafeed.nfcube.com
 DOMAIN-SUFFIX,ipfs.genenetwork.org
 DOMAIN-SUFFIX,ipfs.scalaproject.io
+DOMAIN,iprsoftwaremedia.com
 DOMAIN,jac.yahoosandbox.com
 DOMAIN,js.verygoodvault.com
 DOMAIN,jsmodule.svc.litv.tv
