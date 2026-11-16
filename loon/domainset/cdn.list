@@ -1,5 +1,5 @@
-# Last Update: 2026-11-15 10:28:11 CST
-# Total Rules: 4700
+# Last Update: 2026-11-16 10:37:24 CST
+# Total Rules: 4702
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -2651,6 +2651,7 @@ DOMAIN,maps.wikimedia.org
 DOMAIN,maptile.osmand.net
 DOMAIN,media-cms.ayoba.me
 DOMAIN,media.cgtrader.com
+DOMAIN,media.datacamp.com
 DOMAIN,media.flaticon.com
 DOMAIN,media.formula1.com
 DOMAIN,media.gamestop.com
@@ -3345,6 +3346,7 @@ DOMAIN,static.grammarly.com
 DOMAIN,static.helpjuice.com
 DOMAIN,static.incapsula.com
 DOMAIN,static.infomaniak.ch
+DOMAIN,static.karousell.com
 DOMAIN,static.macupdate.com
 DOMAIN,static.mediafire.com
 DOMAIN,static.meteoblue.com

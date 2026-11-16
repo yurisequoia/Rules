@@ -1,5 +1,5 @@
-# Last Update: 2026-11-15 10:28:11 CST
-# Total Rules: 55
+# Last Update: 2026-11-16 10:37:24 CST
+# Total Rules: 58
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,ai.com
@@ -22,6 +22,7 @@ DOMAIN-SUFFIX,chatgpt.site
 DOMAIN-SUFFIX,deepmind.com
 DOMAIN,ai.google.dev
 DOMAIN-SUFFIX,anthropic.com
+DOMAIN,cloud.zed.dev
 DOMAIN-SUFFIX,gemini.google
 DOMAIN-SUFFIX,oaistatic.com
 DOMAIN,openrouter.ai
@@ -38,6 +39,7 @@ DOMAIN,server.codeium.com
 DOMAIN,aida.googleapis.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,generativeai.google
+DOMAIN,aicode.googleapis.com
 DOMAIN,inference.codeium.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,notebooklm.google.com
@@ -52,6 +54,7 @@ DOMAIN,alkalicore-pa.clients6.google.com
 DOMAIN,daily-cloudcode-pa.googleapis.com
 DOMAIN-SUFFIX,generativelanguage.googleapis.com
 DOMAIN-SUFFIX,proactivebackend-pa.googleapis.com
+DOMAIN,daily-cloudcode-pa.sandbox.googleapis.com
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,alkalimakersuite-pa.clients6.google.com
 URL-REGEX,https://www\.google\.com/.*continue=https://gemini\.google\.com.+
