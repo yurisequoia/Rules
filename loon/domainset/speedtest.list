@@ -1,5 +1,5 @@
-# Last Update: 2026-11-17 12:59:26 CST
-# Total Rules: 3490
+# Last Update: 2026-11-18 12:04:29 CST
+# Total Rules: 3492
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -1626,6 +1626,7 @@ DOMAIN,bytp-speedtest-1.123.net
 DOMAIN,cbpuspeed.aspensmart.net
 DOMAIN,cesu-hz.zjtelecom.com.cn
 DOMAIN,cesu-nb.zjtelecom.com.cn
+DOMAIN,dallas.outboundrix.cloud
 DOMAIN,dc1-speed1.alpha-tech.us
 DOMAIN,fla-st01.provenet.com.br
 DOMAIN,fra-eq5-tptest1.31173.se
@@ -2329,6 +2330,7 @@ DOMAIN,spdtest.omegatelecom.net.br
 DOMAIN,speed.kansas.smishcraft.com
 DOMAIN,speed.lax-1.serverforge.org
 DOMAIN,speedtest-asiago.wifiweb.it
+DOMAIN,speedtest-bne0.encoo.com.au
 DOMAIN,speedtest-ist1.netlojik.com
 DOMAIN,speedtest-lax.perfectip.net
 DOMAIN,speedtest-lhr-01.pdx.net.uk
