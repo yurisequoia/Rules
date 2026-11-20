@@ -1,5 +1,5 @@
-# Last Update: 2026-11-19 12:01:33 CST
-# Total Rules: 4702
+# Last Update: 2026-11-20 11:54:40 CST
+# Total Rules: 4705
 0x0.st
 eep.io
 .esm.sh
@@ -3475,7 +3475,6 @@ cdne-pics.youjizz.com
 cdnjs.betterstack.com
 .chargebeestaticv2.com
 chat-assets.front.app
-.claudeusercontent.com
 cloud.typenetwork.com
 .cloud1.influxdata.com
 .cloud2.influxdata.com
@@ -4379,6 +4378,7 @@ encrypted-vtbn0.gstatic.com
 encrypted-vtbn1.gstatic.com
 encrypted-vtbn2.gstatic.com
 encrypted-vtbn3.gstatic.com
+.frame.claudeusercontent.com
 images-eds-ssl.xboxlive.com
 images-ext-1.discordapp.net
 images-ext-2.discordapp.net
@@ -4432,6 +4432,7 @@ account-widget-mfe.gcore.com
 .agechecker.northern-apps.com
 .applicationinsights.azure.cn
 assets-cdn.watchdisneyfe.com
+assets.claudeusercontent.com
 assets.positional-bucket.com
 assets4.mist-train-girls.com
 cdn-dynmedia-1.microsoft.com
@@ -4478,6 +4479,7 @@ static-oforms.onlyoffice.com
 .static-prod-web.miniclip.com
 static-r.kamihimeproject.net
 static-secure-uploads.ui.com
+static.claudeusercontent.com
 static.community.workday.com
 static.edge.microsoftapp.net
 static2.sharepointonline.com
@@ -4486,6 +4488,7 @@ store-images.s-microsoft.com
 .tunnels.api.visualstudio.com
 ui-statics-cf.streamable.com
 uos-support-files.svc.ui.com
+upload.claudeusercontent.com
 vsmarketplacebadge.apphb.com
 wctour-images.worldchess.com
 akamai-assets.squarespace.com

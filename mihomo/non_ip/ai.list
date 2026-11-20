@@ -1,5 +1,5 @@
-# Last Update: 2026-11-19 12:01:33 CST
-# Total Rules: 57
+# Last Update: 2026-11-20 11:54:40 CST
+# Total Rules: 59
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,ai.com
@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,jasper.ai
 DOMAIN-SUFFIX,claude.com
 DOMAIN-SUFFIX,openart.ai
 DOMAIN-SUFFIX,chatgpt.com
+DOMAIN,claude.site
 DOMAIN-SUFFIX,clipdrop.co
 DOMAIN-SUFFIX,chatgpt.site
 DOMAIN-SUFFIX,deepmind.com
@@ -48,6 +49,7 @@ DOMAIN-SUFFIX,geller-pa.googleapis.com
 DOMAIN,gateway.ai.cloudflare.com
 DOMAIN,aisandbox-pa.googleapis.com
 DOMAIN-SUFFIX,cloudcode-pa.googleapis.com
+DOMAIN,bridge.claudeusercontent.com
 DOMAIN,server.self-serve.windsurf.com
 DOMAIN,robinfrontend-pa.googleapis.com
 DOMAIN,alkalicore-pa.clients6.google.com
