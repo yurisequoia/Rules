@@ -1,5 +1,5 @@
-# Last Update: 2026-11-20 11:54:40 CST
-# Total Rules: 4705
+# Last Update: 2026-11-21 11:50:41 CST
+# Total Rules: 4707
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -4061,6 +4061,7 @@ DOMAIN,axiecdn.axieinfinity.com
 DOMAIN,brick.freetls.fastly.net
 DOMAIN-SUFFIX,buildkiteusercontent.com
 DOMAIN-SUFFIX,bundle.thimatic-apps.com
+DOMAIN-SUFFIX,butterfly-effect-cdn.dev
 DOMAIN,cache.omnicalculator.com
 DOMAIN,cdn-image01.casetify.com
 DOMAIN,cdn-image02.casetify.com
@@ -4167,6 +4168,7 @@ DOMAIN,app-static.sendsafely.com
 DOMAIN,asset-cdn.uscardforum.com
 DOMAIN,assets.map.brightcove.com
 DOMAIN,assets.media-platform.com
+DOMAIN,assets.monetizationos.com
 DOMAIN,assets.openalternative.co
 DOMAIN-SUFFIX,assets.shortbread.aws.dev
 DOMAIN,assets.squarewebsites.org

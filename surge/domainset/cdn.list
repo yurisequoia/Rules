@@ -1,5 +1,5 @@
-# Last Update: 2026-11-20 11:54:40 CST
-# Total Rules: 4705
+# Last Update: 2026-11-21 11:50:41 CST
+# Total Rules: 4707
 0x0.st
 eep.io
 .esm.sh
@@ -4061,6 +4061,7 @@ axiecdn.axieinfinity.com
 brick.freetls.fastly.net
 .buildkiteusercontent.com
 .bundle.thimatic-apps.com
+.butterfly-effect-cdn.dev
 cache.omnicalculator.com
 cdn-image01.casetify.com
 cdn-image02.casetify.com
@@ -4167,6 +4168,7 @@ app-static.sendsafely.com
 asset-cdn.uscardforum.com
 assets.map.brightcove.com
 assets.media-platform.com
+assets.monetizationos.com
 assets.openalternative.co
 .assets.shortbread.aws.dev
 assets.squarewebsites.org
