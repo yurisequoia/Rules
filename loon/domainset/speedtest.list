@@ -1,5 +1,5 @@
-# Last Update: 2026-11-21 11:50:41 CST
-# Total Rules: 3496
+# Last Update: 2026-11-22 10:54:28 CST
+# Total Rules: 3499
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -291,6 +291,7 @@ DOMAIN,ch1.chtm.hinet.net
 DOMAIN,ds19.vipconnect.mx
 DOMAIN,eregli.flix.net.tr
 DOMAIN,fetkt1.seed.net.tw
+DOMAIN,fetml1.seed.net.tw
 DOMAIN,fetnt1.seed.net.tw
 DOMAIN,fetsz1.seed.net.tw
 DOMAIN,fetyl1.seed.net.tw
@@ -939,6 +940,7 @@ DOMAIN,speedtest.cvalley.net
 DOMAIN,speedtest.dcsi.net.au
 DOMAIN,speedtest.dimdams.com
 DOMAIN,speedtest.duocast.net
+DOMAIN,speedtest.edgefox.net
 DOMAIN,speedtest.ediscom.net
 DOMAIN,speedtest.elsynet.net
 DOMAIN,speedtest.elxireit.in
@@ -2319,6 +2321,7 @@ DOMAIN,madvpdspeedtesta.voiped.com
 DOMAIN,mars-speedtest.guzel.net.tr
 DOMAIN,mia-eqx1-ookla-1.99.network
 DOMAIN,mib-rst-sp1.mibroadband.com
+DOMAIN,msk.speedtest.reynard.cloud
 DOMAIN,mspeedtest.linkceara.com.br
 DOMAIN,nets-mad01.servihosting.net
 DOMAIN,ny00svp-speed11.svc.tds.net
