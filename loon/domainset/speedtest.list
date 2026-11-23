@@ -1,5 +1,5 @@
-# Last Update: 2026-11-22 10:54:28 CST
-# Total Rules: 3499
+# Last Update: 2026-11-23 11:35:53 CST
+# Total Rules: 3500
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -2698,6 +2698,7 @@ DOMAIN,edgemark-lax.cust.edgemark.io
 DOMAIN,exc-speedtest.unitedfiber.com
 DOMAIN,ga-speedtest.liveoakfiber.com
 DOMAIN,ksc11-speedtest01.as15108.com
+DOMAIN,librespeed-dtw.rackgenius.com
 DOMAIN,librespeed.lukas-heinrich.com
 DOMAIN,lnk11-speedtest01.as15108.com
 DOMAIN,lsv11-speedtest01.as15108.com
