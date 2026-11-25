@@ -1,5 +1,5 @@
-# Last Update: 2026-11-24 14:50:43 CST
-# Total Rules: 3504
+# Last Update: 2026-11-25 13:17:48 CST
+# Total Rules: 3505
 DOMAIN-SUFFIX,fast.com
 DOMAIN,fastme.ir
 DOMAIN-SUFFIX,nperf.net
@@ -2317,6 +2317,7 @@ DOMAIN,hizgaziantep.durunet.com.tr
 DOMAIN,ihgtelecom.brsserver.com.br
 DOMAIN,ipl3pt.syd.ops.aspac.uu.net
 DOMAIN,itanetwork.brsserver.com.br
+DOMAIN,kc.speedtest.rustbanned.net
 DOMAIN,lax-cos2-ookla-1.99.network
 DOMAIN,lmb1-ookla.perf.fastedge.it
 DOMAIN,madvpdspeedtesta.voiped.com
