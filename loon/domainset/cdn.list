@@ -1,5 +1,5 @@
-# Last Update: 2026-11-26 12:45:52 CST
-# Total Rules: 4707
+# Last Update: 2026-11-27 12:51:50 CST
+# Total Rules: 4706
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -4380,7 +4380,6 @@ DOMAIN,encrypted-vtbn0.gstatic.com
 DOMAIN,encrypted-vtbn1.gstatic.com
 DOMAIN,encrypted-vtbn2.gstatic.com
 DOMAIN,encrypted-vtbn3.gstatic.com
-DOMAIN-SUFFIX,frame.claudeusercontent.com
 DOMAIN,images-eds-ssl.xboxlive.com
 DOMAIN,images-ext-1.discordapp.net
 DOMAIN,images-ext-2.discordapp.net
