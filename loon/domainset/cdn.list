@@ -1,5 +1,5 @@
-# Last Update: 2026-11-27 12:51:50 CST
-# Total Rules: 4706
+# Last Update: 2026-11-28 12:36:57 CST
+# Total Rules: 4696
 DOMAIN,0x0.st
 DOMAIN,eep.io
 DOMAIN-SUFFIX,esm.sh
@@ -1025,7 +1025,6 @@ DOMAIN-SUFFIX,picsum.photos
 DOMAIN-SUFFIX,place-hold.it
 DOMAIN,pomf2.lain.la
 DOMAIN,r2.dejavu.moe
-DOMAIN,r2cdn.c7d.dev
 DOMAIN-SUFFIX,randomuser.me
 DOMAIN-SUFFIX,rawgithub.com
 DOMAIN-SUFFIX,rcsobjects.it
@@ -1342,7 +1341,6 @@ DOMAIN,s1.divhunt.com
 DOMAIN,s3.2233778.xyz
 DOMAIN-SUFFIX,sbcdnvideo.com
 DOMAIN,scache.vzw.com
-DOMAIN,scdn.clerk.com
 DOMAIN,sdata.ndtv.com
 DOMAIN,sdk.qikify.com
 DOMAIN-SUFFIX,sentry-cdn.com
@@ -1370,7 +1368,6 @@ DOMAIN,static.reo.dev
 DOMAIN,static.snyk.io
 DOMAIN,static.toss.im
 DOMAIN,static.xns.one
-DOMAIN,static.yfsp.tv
 DOMAIN,stc.utdstc.com
 DOMAIN-SUFFIX,sthlstatic.com
 DOMAIN,stream.mux.com
@@ -1643,7 +1640,6 @@ DOMAIN-SUFFIX,net.anydesk.com
 DOMAIN-SUFFIX,nftstorage.link
 DOMAIN,object.innei.in
 DOMAIN,objects.hit.moe
-DOMAIN,pacdn.500px.org
 DOMAIN-SUFFIX,parastorage.com
 DOMAIN,pcz.javidol.org
 DOMAIN-SUFFIX,permaweb.eu.org
@@ -1874,7 +1870,6 @@ DOMAIN-SUFFIX,dc-telemetry.net
 DOMAIN-SUFFIX,directupload.net
 DOMAIN-SUFFIX,dockerstatic.com
 DOMAIN-SUFFIX,dreamscape.cloud
-DOMAIN,drscdn.500px.org
 DOMAIN,e.deviantart.net
 DOMAIN,embed.lantern.io
 DOMAIN,embed.reddit.com
@@ -2038,7 +2033,6 @@ DOMAIN-SUFFIX,s3.wasabisys.com
 DOMAIN,s8.maxstream.org
 DOMAIN-SUFFIX,scribdassets.com
 DOMAIN,sdk.customfit.ai
-DOMAIN,segapi.clerk.com
 DOMAIN,shots.codepen.io
 DOMAIN-SUFFIX,sny.monosnap.com
 DOMAIN,static.arxiv.org
@@ -2691,7 +2685,6 @@ DOMAIN,proxy.spigotmc.org
 DOMAIN,public.hare200.com
 DOMAIN,public.popclip.app
 DOMAIN-SUFFIX,quip-marketing.com
-DOMAIN,r2cdn.corespeed.io
 DOMAIN,reader.readmoo.com
 DOMAIN,registry.oomol.com
 DOMAIN-SUFFIX,replicate.delivery
@@ -3451,6 +3444,7 @@ DOMAIN,cdn.freebiesupply.com
 DOMAIN,cdn.heapanalytics.com
 DOMAIN,cdn.joincommunity.xyz
 DOMAIN-SUFFIX,cdn.printfriendly.com
+DOMAIN,cdn.protect.clerk.com
 DOMAIN,cdn.prowritingaid.com
 DOMAIN,cdn.shoppinggives.com
 DOMAIN,cdn.simplelocalize.io
@@ -3544,7 +3538,6 @@ DOMAIN,media.cleanshot.cloud
 DOMAIN,media.games.dmm.co.jp
 DOMAIN,media.gettyimages.com
 DOMAIN,media.graphassets.com
-DOMAIN,media.hentaifreak.org
 DOMAIN,media.identity.ui.com
 DOMAIN,media.invisioncic.com
 DOMAIN,media.istockphoto.com
@@ -3876,7 +3869,6 @@ DOMAIN,assets.clever-cloud.com
 DOMAIN,assets.clickfunnels.com
 DOMAIN-SUFFIX,assets.digitalocean.com
 DOMAIN,assets.lemonsqueezy.com
-DOMAIN,assets.mcp.corespeed.io
 DOMAIN,assets.science.nasa.gov
 DOMAIN,assets.singaporeair.com
 DOMAIN,assets.streamlinehq.com
@@ -4133,9 +4125,7 @@ DOMAIN,segment.digitalocean.com
 DOMAIN,service-icons.zeabur.com
 DOMAIN-SUFFIX,settings.crashlytics.com
 DOMAIN,sf-coze-web-cdn.coze.com
-DOMAIN,showcase.abovemarket.com
 DOMAIN,sp-spiegel-de.spiegel.de
-DOMAIN,spotlightimage.biggo.com
 DOMAIN,static-assets.mapbox.com
 DOMAIN,static-assets.vinted.com
 DOMAIN,static-forms.klaviyo.com
@@ -4260,7 +4250,6 @@ DOMAIN,tiles.maps.opensearch.org
 DOMAIN,trekcdnprod.azureedge.net
 DOMAIN,tuf-repo-cdn.sigstore.dev
 DOMAIN,ubistatic2-a.akamaihd.net
-DOMAIN,unlimited-cdn.waifu2x.net
 DOMAIN,vz-2222604c-50b.b-cdn.net
 DOMAIN,vz-c0fe498e-5ab.b-cdn.net
 DOMAIN,web-assets.esetstatic.com
@@ -4577,6 +4566,7 @@ DOMAIN,android-safebrowsing.google.com
 DOMAIN,bookface-static.ycombinator.com
 DOMAIN,brand-assets.cne.ngc.nvidia.com
 DOMAIN,bunnycdn-video-assets.b-cdn.net
+DOMAIN,cdn-resize-prod-com.500px.cloud
 DOMAIN,cdn-widgetsrepository.yotpo.com
 DOMAIN,cdn.playersupport.riotgames.com
 DOMAIN,cdn.techcommunity.microsoft.com

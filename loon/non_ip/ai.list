@@ -1,5 +1,5 @@
-# Last Update: 2026-11-27 12:51:50 CST
-# Total Rules: 60
+# Last Update: 2026-11-28 12:36:57 CST
+# Total Rules: 59
 DOMAIN-SUFFIX,g.ai
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,ai.com
@@ -41,7 +41,6 @@ DOMAIN,aida.googleapis.com
 DOMAIN-SUFFIX,aistudio.google.com
 DOMAIN-SUFFIX,generativeai.google
 DOMAIN,aicode.googleapis.com
-DOMAIN,inference.codeium.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,notebooklm.google.com
 DOMAIN,antigravity-unleash.goog
